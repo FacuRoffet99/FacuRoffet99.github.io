@@ -1,7 +1,9 @@
-Title: <h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Facundo Roffet</h1>
+Title: Inicio
 Lang: es
 Slug: index
 Status: hidden
+
+<h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Facundo Roffet</h1>
 
 <br>
 

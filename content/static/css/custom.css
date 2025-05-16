@@ -35,3 +35,7 @@ aside {
 .content h1:first-of-type {
     display: none;
 }
+
+h1#index {
+  display: none;
+}
