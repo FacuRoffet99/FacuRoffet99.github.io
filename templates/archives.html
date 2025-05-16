@@ -1,13 +1,13 @@
 {% extends "base.html" %} {# Hereda de la plantilla base de Flex #}
 
-{% block title %}
-    Notas por Categoría - {{ SITENAME }}
-{% endblock %}
-
 {% block content %}
     <article class="page">
         <header>
-            <h2 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Notas de cursos</h2>
+            {% if DEFAULT_LANG == 'en' %}
+                <h2 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Course notes</h2>
+            {% else %}
+                <h2 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Notas de cursos</h2>
+            {% endif %}
         </header>
         <div class="entry-content">
             {# Pelican pasa una variable 'categories' que es una lista de tuplas (categoría, lista_de_articulos_en_esa_categoría) #}
@@ -19,7 +19,7 @@
 
             {% if categories %}
                 {% for category, articles_in_category in categories %}
-                    <h2 id="{{ category.slug }}">{{ category }}</h2> {# category.name también podría funcionar si es un objeto Category #}
+                    <h2 id="{{ category.slug }}">{{ category.name }}</h2> {# category.name también podría funcionar si es un objeto Category #}
                     <ul class="simple-list">
                         {# Ordenar artículos dentro de la categoría, por ejemplo, por fecha descendente #}
                         {# Pelican pasa 'articles_in_category' ya ordenado según la configuración global de artículos (ARTICLE_ORDER_BY) #}
@@ -34,7 +34,11 @@
                     </ul>
                 {% endfor %}
             {% else %}
-                <p>Aún no hay notas publicadas.</p>
+                {% if DEFAULT_LANG == 'en' %}
+                    <p>No notes published yet.</p>
+                {% else %}
+                    <p>Aún no hay notas publicadas.</p>
+                {% endif %}
             {% endif %}
         </div>
     </article>

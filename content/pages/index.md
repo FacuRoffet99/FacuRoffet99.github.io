@@ -1,4 +1,5 @@
 Title: <h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Facundo Roffet</h1>
+Lang: es
 Slug: index
 Status: hidden
 
@@ -38,26 +39,26 @@ Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, 
 
 Estudio y desarrollo de herramientas basadas en deep learning para la simulación y predicción de la actividad neuronal del cerebro completo (whole-brain) y su evolución en situaciones de enfermedad mediante la definición de biomarcadores. El objetivo es que estas herramientas permitan predecir el efecto de tratamientos y la respuesta a fármacos en casos de enfermedades neurodegenerativas (Parkinson, Alzheimer, etc) para generar un aporte al diagnóstico personalizado.
 
-*   Deep learning and whole-brain networks for biomarker discovery: modeling the dynamics of brain fluctuations in resting-state and cognitive tasks. *Preprint en arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329).
+*   Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Preprint en arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329).
 
 **Proyecto MultiCaRe (Enero 2024 - Presente):** 
 
 Utilización de ontologías jerárquicas y técnicas de aprendizaje semi-supervisado para mejorar tanto la calidad de las etiquetas como la estructuración de los datos en un dataset de imágenes médicas compuesto de más de 150000 muestras y 140 categorías jerárquicas.
 
-*   An open-source clinical case dataset for medical image classification and multimodal AI applications. *En revisión*, 2025. [LINK](https://arxiv.org/abs/2412.19329).
-*   The Multiplex Classification Framework: optimizing multi-label classifiers through problem transformation, ontology engineering, and model ensembling. *Preprint en arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.14299).
+*   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *En revisión*, 2025.
+*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Preprint en arXiv (aceptado, publicación pendiente en Applied Ontology)*, 2024. [LINK](https://arxiv.org/abs/2412.14299).
 
 **Proyecto eritrocitos (Octubre 2022 - Junio 2024):** 
 
 Diseño de una metodología para detectar automáticamente cinco anomalías de glóbulos rojos (eritrocitos) en aves marinas utilizando un dataset desbalanceado para permitir un análisis rápido y menos dependiente de la interpretación humana (F1 score: 0.7703).
 
-*   Integrating deep learning into genotoxicity biomarker detection for avian erythrocytes: a case study in a hemispheric seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41).
+*   Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41).
 
 **Proyecto de grado (Septiembre 2021 - Agosto 2022):**
 
 Utilización de la teoría de la información para evaluar técnicas de armonización de fMRI, descubriendo que los métodos comunes no eliminan por completo los sesgos introducidos por los diferentes sitios de adquisición.
 
-*   Assessing multi-site rs-fMRI-based connectomic harmonization using information theory. *Brain Sciences*, 2022. [LINK](https://www.mdpi.com/2076-3425/12/9/1219).
+*   Assessing Multi-Site rs-fMRI-Based Connectomic Harmonization Using Information Theory. *Brain Sciences*, 2022. [LINK](https://www.mdpi.com/2076-3425/12/9/1219).
 
 <br>
 

@@ -1,6 +1,7 @@
 Title: Tiempo y clima
 Date: 2025-05-15 15:16
 Category: Meteorología
+Lang: es
 Slug: weather_and_climate
 Author: Facundo Roffet
 
@@ -11,7 +12,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-> Estas son mis notas personales del curso [Introduction to weather and climate short course](https://www.youtube.com/playlist?list=PLCewapt2D7PsD6fL3KkNInBYCQHLZuGoM). 
+> Estas son mis notas personales del curso [Introduction to weather and climate short course](https://www.youtube.com/playlist?list=PLCewapt2D7PsD6fL3KkNInBYCQHLZuGoM) de Mel Strong. 
 
 <!---------------------------------------------------------------------------->
 
@@ -132,12 +133,12 @@ Author: Facundo Roffet
 
 ## Ciclo del carbono:
 
-*   Reservas de carbono y flujos netos:
-       Vegetación: 600 Tg (+2,6 Tg/año)
-       Atmósfera: 829 Tg (+4 Tg/año)
-       Océano: 38.000 Tg (+2,3 Tg/año)
-       Suelo: 2.000 Tg
-       Combustibles fósiles: 4.100 Tg
-       Rocas carbonatadas: 80.000.000 Tg
+*   Reservas de carbono y flujos netos: 
+    - Vegetación: 600 Tg (+2,6 Tg/año)
+    - Atmósfera: 829 Tg (+4 Tg/año)
+    - Océano: 38.000 Tg (+2,3 Tg/año)
+    - Suelo: 2.000 Tg
+    - Combustibles fósiles: 4.100 Tg
+    - Rocas carbonatadas: 80.000.000 Tg
 *   Agregar CO₂ a los océanos genera ácido carbónico, lo cual afecta a los corales y a toda la biodiversidad que depende de ellos.
 *   La curva de Keeling muestra que la evolución del CO₂ en la atmósfera a lo largo del tiempo tiene dos componentes. Una es una oscilación natural que se repite todos los años (debido a la diferencia entre cantidad de vegetación entre hemisferios: valle cuando es verano en el norte y pico cuando es invierno), y la otra es un incremento cuasi lineal causado por las emisiones humanas de los últimos 150 años.

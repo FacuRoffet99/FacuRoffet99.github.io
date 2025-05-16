@@ -1,9 +1,5 @@
 # pelican content
 # pelican --listen
-# pelican content -s publishconf.py -o output
-
-# VER IDIOMAS
-# PUBLICAR
 
 import os
 import sys
@@ -58,3 +54,31 @@ STATIC_PATHS = ['images', 'static']
 THEME = 'themes/Flex'
 THEME_COLOR = 'dark'
 THEME_TEMPLATES_OVERRIDES = ['templates']
+
+DEFAULT_LANG = 'es'
+LANGUAGES = (('es', 'Español'), ('en', 'English'))
+ARTICLE_TRANSLATION_ID = 'slug'
+PAGE_TRANSLATION_ID = 'slug'
+ARTICLE_LANG_SAVE_AS = '{slug}-{lang}.html'
+ARTICLE_LANG_URL = '{slug}-{lang}.html'
+PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
+PAGE_LANG_URL = '{slug}-{lang}.html'
+
+
+LOCALE = [
+    'es_AR.UTF-8', 'es_ES.UTF-8', 'es.UTF-8', # Varias opciones para español
+    'en_US.UTF-8', 'en_GB.UTF-8', 'en.UTF-8', # Varias opciones para inglés
+    '' # Como fallback
+]
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['i18n_subsites']
+I18N_SUBSITES = {
+    'en': {
+        'LOCALE': 'en_US.UTF-8',
+        'LINKS': (
+            ("Home", "/"),
+            ("Course notes", "/notes/"),
+        ),
+    },
+}
