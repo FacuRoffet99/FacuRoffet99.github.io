@@ -1,0 +1,37 @@
+/* content/static/css/custom.css */
+
+/* Ejemplo para cambiar el color de los enlaces */
+/* Reemplaza 'a' o '.otro-selector a' con el selector correcto */
+a,
+a:visited { /* Aplica a enlaces normales y visitados */
+    color: rgba(12, 205, 76, 0.927);
+}
+
+/* Ejemplo para cambiar el color de los enlaces al pasar el ratón */
+a:hover {
+    color: rgb(0, 255, 85); /* Elige un color para el hover */
+} 
+
+aside {
+    div {
+        padding: 0px;
+        padding-top: 40px;
+        /* margin: 20px;    */
+        img {
+            border-radius: 16px;
+            max-width: 200px;
+            object-fit: cover;
+        }
+    }
+    nav {
+        ul {
+            li {
+                text-transform: None;    
+            }
+        }
+    }
+}
+
+.content h1:first-of-type {
+    display: none;
+}

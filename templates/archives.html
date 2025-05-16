@@ -1,0 +1,41 @@
+{% extends "base.html" %} {# Hereda de la plantilla base de Flex #}
+
+{% block title %}
+    Notas por Categoría - {{ SITENAME }}
+{% endblock %}
+
+{% block content %}
+    <article class="page">
+        <header>
+            <h2 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Notas de cursos</h2>
+        </header>
+        <div class="entry-content">
+            {# Pelican pasa una variable 'categories' que es una lista de tuplas (categoría, lista_de_articulos_en_esa_categoría) #}
+            {# Necesitamos ordenarla alfabéticamente por el nombre de la categoría. #}
+            {# La forma más fácil es que Pelican lo haga por ti si configuras: #}
+            {# CATEGORY_ORDER_BY = 'name' en pelicanconf.py (¡Pruébalo!) #}
+            {# Si no, tendríamos que ordenarla aquí en la plantilla, lo cual es más complejo. #}
+            {# Asumamos que CATEGORY_ORDER_BY = 'name' está configurado o que el orden por defecto te sirve, o que son pocas y el orden no es hipercrítico al principio. #}
+
+            {% if categories %}
+                {% for category, articles_in_category in categories %}
+                    <h2 id="{{ category.slug }}">{{ category }}</h2> {# category.name también podría funcionar si es un objeto Category #}
+                    <ul class="simple-list">
+                        {# Ordenar artículos dentro de la categoría, por ejemplo, por fecha descendente #}
+                        {# Pelican pasa 'articles_in_category' ya ordenado según la configuración global de artículos (ARTICLE_ORDER_BY) #}
+                        {% for article in articles_in_category %}
+                            <li>
+                                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                                {% if article.date %}
+                                    <span class="article-date">- {{ article.date.strftime('%d %B %Y') }}</span>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endfor %}
+            {% else %}
+                <p>Aún no hay notas publicadas.</p>
+            {% endif %}
+        </div>
+    </article>
+{% endblock %}

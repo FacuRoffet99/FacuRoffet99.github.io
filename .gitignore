@@ -1,0 +1,60 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones de Python / paquetes
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Cache de Pelican
+.cache/
+# Carpeta de salida de Pelican (donde se genera el sitio web)
+output/
+
+# Entornos virtuales de Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración específicos del editor/IDE
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+logs
+*.log.*
+*.log.[0-9]
+
+# Archivos de base de datos (si alguna vez usaras algo localmente)
+*.db
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
