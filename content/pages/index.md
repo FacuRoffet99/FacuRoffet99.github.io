@@ -13,7 +13,7 @@ Status: hidden
 
 Hola, soy Facu, un ingeniero electrónico que se dió cuenta que realmente no le gustan los circuitos. En un momento pandémico de completa serendipia, me crucé con el canal de YouTube [DotCSV](https://www.youtube.com/@DotCSV) y casi instantáneamente descubrí que mi verdadera pasión era la inteligencia artificial (particularmente el deep learning). Así que decidí empezar a aprender por mi propia cuenta sobre el tema (no me canso de recomendar el curso de [FastAI](https://course.fast.ai/)). 
 
-Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el Laboratorio de Ciencias de las Imágenes (LCI), una institución referente nacional en investigación, desarrollo y transferencia de tecnología en el ámbito del procesamiento de imágenes y sensado remoto. Allí conocí a [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (director del LCI), quién rápidamente se convirtió en mi tutor y me presentó ante [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). Entre los tres, delineamos un plan de trabajo para postularme a una beca doctoral del CONICET. Desde ahí, me especializo en la utilización de deep learning y datos de resonancias magnéticas cerebrales para mejorar el diagnóstico temprano y el entendimiento de enfermedades neurodegenerativas.
+Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el Laboratorio de Ciencias de las Imágenes (LCI), una institución referente nacional en investigación, desarrollo y transferencia de tecnología en el ámbito del procesamiento de imágenes y sensado remoto. Allí conocí a [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (director del LCI), quién rápidamente se convirtió en mi tutor y me presentó ante [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). Entre los tres, delineamos un plan de trabajo para postularme a la Beca Interna Doctoral para Temas Estratégicos del CONICET. Tras obtenerla en 2023, me especializo en la utilización de deep learning y datos de resonancias magnéticas cerebrales para mejorar el diagnóstico temprano y el entendimiento de enfermedades neurodegenerativas.
 
 Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, la geografía y la psicología me despiertan un gran interés. Soy un gran defensor del aprendizaje como un fin en sí mismo y no solo como un mero medio, así que dedico parte de mi tiempo libre a ver cursos online y tomar notas de ellos. Mis notas están más que nada diseñadas para ser entendidas por mi mismo, pero las dejo disponibles en la sección [Notas de cursos](/notes/) por si les llegan a servir a alguien.
 
@@ -50,13 +50,13 @@ Utilización de ontologías jerárquicas y técnicas de aprendizaje semi-supervi
 *   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *En revisión*, 2025.
 *   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Preprint en arXiv (aceptado, publicación pendiente en Applied Ontology)*, 2024. [LINK](https://arxiv.org/abs/2412.14299).
 
-**Proyecto eritrocitos (Octubre 2022 - Junio 2024):** 
+**Proyecto Eritrocitos (Octubre 2022 - Junio 2024):** 
 
 Diseño de una metodología para detectar automáticamente cinco anomalías de glóbulos rojos (eritrocitos) en aves marinas utilizando un dataset desbalanceado para permitir un análisis rápido y menos dependiente de la interpretación humana (F1 score: 0.7703).
 
 *   Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41).
 
-**Proyecto de grado (Septiembre 2021 - Agosto 2022):**
+**Tesis de grado (Septiembre 2021 - Agosto 2022):**
 
 Utilización de la teoría de la información para evaluar técnicas de armonización de fMRI, descubriendo que los métodos comunes no eliminan por completo los sesgos introducidos por los diferentes sitios de adquisición.
 
@@ -102,15 +102,15 @@ Librería de Python que contiene herramientas y plantillas para hacer más facil
 
 **VII Congreso de Ciencias y Tecnología (2024):** 
 
-*   Universidad Nacional de Itapúa, Encarnación, Paraguay.
+*   Exposición del proyecto Eritrocitos y dictado del taller *Clasificación de imágenes con IA: fundamentos, recomendaciones y un ejemplo práctico*. Universidad Nacional de Itapúa, Encarnación, Paraguay.
 
 **30º edición de las Jornadas de Jóvenes Investigadores de la AUGM (2023):** 
 
-*   Universidad Nacional de Asunción, Asunción, Paraguay.
+*   Exposición de la tesis de grado. Universidad Nacional de Asunción, Asunción, Paraguay.
 
 **VI IEEE Biennial Congress of Argentina - ARGENCON (2022):** 
 
-*   Universidad Nacional de San Juan, San Juan, Argentina.
+*   Exposición de la tesis de grado. Universidad Nacional de San Juan, San Juan, Argentina.
 
 <br>
 
