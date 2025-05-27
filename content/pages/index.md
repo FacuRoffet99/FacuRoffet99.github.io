@@ -17,6 +17,10 @@ Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el L
 
 Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, la geografía y la psicología me despiertan un gran interés. Soy un gran defensor del aprendizaje como un fin en sí mismo y no solo como un mero medio, así que dedico parte de mi tiempo libre a ver cursos online y tomar notas de ellos. Mis notas están más que nada diseñadas para ser entendidas por mi mismo, pero las dejo disponibles en la sección [Notas de cursos](/notes/) por si les llegan a servir a alguien.
 
+También disfruto mucho de la naturaleza y la aventura. Siempre que puedo viajo para conocer nuevos lugares, ya sea solo, con amigos, familia o gente del [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). En la sección [Cumbres y senderos](/summits_and_trails.html) comparto algunas imágenes de mis travesías.
+
+📘 Aprender | 🌍 Explorar | 🤝 Conectar
+
 <br>
 
 <!---------------------------------------------------------------------------->

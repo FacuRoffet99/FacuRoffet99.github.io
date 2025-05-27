@@ -39,3 +39,36 @@ aside {
 h1#index {
   display: none;
 }
+
+h1#summits_and_trails {
+  display: none;
+}
+
+.travel-entry-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px; /* Espacio entre imágenes */
+  margin-bottom: 2em; /* Espacio después de cada galería */
+  justify-content: space-around; /* O center, space-between */
+}
+
+.travel-entry-gallery img {
+  max-width: 240px; /* Ajusta para el número de imágenes que quieres por fila */
+  height: auto;  /* Mantiene la proporción */
+  border-radius: 8px; /* Bordes redondeados (opcional) */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.8); /* Sombra ligera (opcional) */
+  object-fit: cover; /* Para que todas las imágenes llenen su espacio asignado sin distorsionarse */
+  aspect-ratio: 3/5; /* O 3/2, 16/9 - para que todas tengan la misma forma si son de diferentes proporciones */
+}
+
+/* Media query para móviles, para que las imágenes ocupen más ancho */
+@media (max-width: 768px) {
+  .travel-entry-gallery img {
+    max-width: 45%; /* Dos imágenes por fila */
+  }
+}
+@media (max-width: 480px) {
+  .travel-entry-gallery img {
+    max-width: 90%; /* Una imagen por fila */
+  }
+}

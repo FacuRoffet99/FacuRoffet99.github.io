@@ -30,6 +30,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Inicio", "/"),
     ("Notas de cursos", "/notes/"),
+    ("Cumbres y senderos", "/summits_and_trails.html"),
 )
 
 DEFAULT_PAGINATION = False
@@ -48,7 +49,7 @@ FAVICON = '/favicon.ico'
 INDEX_SAVE_AS = ''
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}.html'
-PAGE_PATHS = ['pages']
+# PAGE_PATHS = ['pages']
 SITELOGO = '/images/profile.png'
 STATIC_PATHS = ['images', 'static']
 THEME = 'themes/Flex'
@@ -79,6 +80,7 @@ I18N_SUBSITES = {
         'LINKS': (
             ("Home", "/"),
             ("Course notes", "/notes/"),
+            ("Summits and trails", "/summits_and_trails.html"),
         ),
     },
 }

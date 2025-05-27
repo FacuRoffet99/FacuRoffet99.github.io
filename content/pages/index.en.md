@@ -17,6 +17,10 @@ Fortunately for my career, the National University of the South (Universidad Nac
 
 Beyond my work, I have random interests in other disciplines such as philosophy, geography, and psychology. I’m a strong advocate of learning for its own sake, not just as a means to an end, so I spend part of my free time watching online courses and taking notes. My notes are primarily designed for my own understanding, but I make them available in the [Course Notes](/en/notes/) section in case they’re helpful to anyone else.
 
+I'm also a big fan of nature and adventure. Whenever I get the chance, I travel to discover new places—be it solo, with friends, family, or folks from the [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). In the [Summits and trails](/en/summits_and_trails.html) section, I share some pictures from my journeys.
+
+📘 Learn | 🌍 Explore | 🤝 Connect
+
 <br>
 
 <!---------------------------------------------------------------------------->
