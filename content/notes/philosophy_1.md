@@ -2,7 +2,7 @@ Title: Filosofía de la antigüedad
 Date: 2025-05-21 11:35
 Category: Filosofía
 Lang: es
-Slug: philosophy_ancient
+Slug: philosophy_1
 Author: Facundo Roffet
 
 <!-- Hide default title -->

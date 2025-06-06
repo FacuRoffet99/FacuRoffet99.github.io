@@ -52,7 +52,7 @@ Estudio y desarrollo de herramientas basadas en deep learning para la simulació
 Utilización de ontologías jerárquicas y técnicas de aprendizaje semi-supervisado para mejorar tanto la calidad de las etiquetas como la estructuración de los datos en un dataset de imágenes médicas compuesto de más de 150000 muestras y 140 categorías jerárquicas.
 
 *   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *En revisión*, 2025.
-*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Preprint en arXiv (aceptado, publicación pendiente en Applied Ontology)*, 2024. [LINK](https://arxiv.org/abs/2412.14299).
+*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
 
 **Proyecto Eritrocitos (Octubre 2022 - Junio 2024):** 
 

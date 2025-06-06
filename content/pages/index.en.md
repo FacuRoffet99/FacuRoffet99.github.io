@@ -50,7 +50,7 @@ Study and development of deep learning–based tools for simulating and predicti
 Use of hierarchical ontologies and semi-supervised learning techniques to improve both label quality and data structuring in a medical image dataset of over 150,000 samples across 140 hierarchical categories.
 
 * An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Under review*, 2025
-* The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Preprint on arXiv (accepted, publication pending in Applied Ontology)*, 2024. [LINK](https://arxiv.org/abs/2412.14299)
+* The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
 
 **Erythrocyte project (October 2022 – June 2024):**
 Design of a methodology to automatically detect five anomalies in avian red blood cells using an imbalanced dataset to enable rapid, less subjective analysis (F1 score: 0.7703).
