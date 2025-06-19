@@ -1,6 +1,6 @@
 Title: Weather and climate
 Date: 2025-05-15 15:16
-Category: Meteorology
+Category: Earth sciences
 Lang: en
 Slug: weather_and_climate
 Author: Facundo Roffet

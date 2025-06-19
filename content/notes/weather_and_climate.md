@@ -1,6 +1,6 @@
 Title: Tiempo y clima
 Date: 2025-05-15 15:16
-Category: Meteorología
+Category: Ciencias de la Tierra
 Lang: es
 Slug: weather_and_climate
 Author: Facundo Roffet

@@ -36,23 +36,27 @@ Author: Facundo Roffet
 
 * **Parmenides** (530 BCE, Italy – what is, is; and what is not, is not): Nothing can come from nothing, so change is impossible. The universe is an eternal whole—there is no empty space and all change is an illusion. Only what can be thought exists; the real is the same as the thinkable.
 
-* **Zeno of Elea** (490 BCE, Italy – Achilles and the tortoise): Movement is an illusion—you cannot cross an infinite number of points in a finite amount of time. Appearance is not necessarily reality.
+* **Anaxagoras** (500 BCE, Turkey – infinite elements): There are infinitely many fundamental elements ("seeds"), all present in everything; individual things differ only by the predominance (not absence) of some elements over others. The organizing principle of the universe is an immaterial, intelligent force that provides causal power ("power over") to the elements.
 
 * **Empedocles** (495 BCE, Italy – a god among mortals): The *archê* consists of four eternal and immutable elements (air, fire, water, and earth), which combine in different proportions to form the world we see. Two fundamental forces—Love and Strife—are in cyclical conflict, creating change by uniting or separating the elements.
 
-* **Anaxagoras** (500 BCE, Turkey – infinite elements): There are infinitely many fundamental elements ("seeds"), all present in everything; individual things differ only by the predominance (not absence) of some elements over others. The organizing principle of the universe is an immaterial, intelligent force that provides causal power ("power over") to the elements.
+* **Zeno of Elea** (490 BCE, Italy – Achilles and the tortoise): Movement is an illusion—you cannot cross an infinite number of points in a finite amount of time. Appearance is not necessarily reality.
 
 * **Democritus** (460 BCE, Greece – atomism): Everything is made of atoms (tiny, indivisible particles) and empty space. Atoms themselves do not change, but their configurations do, generating infinite instances of a single reality. The universe is deterministic: given the initial conditions of an atom and enough computational power, one could predict its entire future.
 
 * **The Sophists** (masters of oratory and rhetoric) – [Protagoras (485 BCE, Greece), Gorgias (480 BCE, Italy), Prodicus (465 BCE, Greece), Hippias (443 BCE, Greece), Antiphon (480 BCE, Greece), Critias (460 BCE, Greece)]: Every argument has two sides, and neither is inherently more valid than the other. People can be persuaded to any extreme through rhetoric. It is the person holding a belief who gives it value—not the belief itself or the facts behind it: "man is the measure of all things." What is true or right for one person may not be for another—everything is subjective.
 
-## The three pillars – Socrates, Plato and Aristotle
+<!---------------------------------------------------------------------------->
+
+## The holy trinity – Socrates, Plato and Aristotle
 
 * **Socrates** (470 BCE, Greece – method of refutation): Brought philosophy to the public by encouraging people to question their beliefs and guiding them toward truth: "Well, now that you know you don’t know what you’re talking about, we can start making progress." Philosophy is discussion, questioning, and argumentation. The only way to live a virtuous life is to know the true definitions of virtuous words—and reason is the only way to discover them. The pursuit of knowledge is life’s ultimate goal and the highest virtue; an unexamined life is not worth living.
 
 * **Plato** (427 BCE, Greece – world of forms): Concepts like justice and beauty are not defined by perception, but are eternal, perfect, and immutable. The same is true for all physical objects. These perfect versions do not exist in our sensory world but in a separate realm of Forms. What we perceive are imperfect, ever-changing copies; only reason allows access to the true Forms. Before birth, our immortal souls reside in the world of Forms, and learning is the process of remembering them. In an ideal society, each person uses their natural talents to fulfill the role of one of three classes: producers, defenders, and rulers. The soul also has three parts: desire (seeks sex, money), spirit (seeks honor, fame), and reason (seeks knowledge). Rulers' decisions must be based on reason, so philosophers—those most virtuous and intelligent—should rule (aristocracy).
 
 * **Aristotle** (384 BCE, Greece – everything in due measure): To know something is to understand all its causes, which are four: material (what it’s made of), formal (its structure), efficient (what created or changed it), and final (its purpose). Individual things are not imperfect copies of immutable Forms; rather, form is a property of matter. Since causal chains cannot regress infinitely, there must be a first cause that causes itself: this is a mind called God. Knowledge alone is not enough; it must be put into practice through virtuous habits: "we are what we repeatedly do; excellence, then, is not an act but a habit." Virtue lies in the mean between deficiency and excess. Just as Socrates said an unexamined life is not worth living, Aristotle adds that an unplanned life is not worth examining—you can’t analyze without a goal. If one hasn’t yet developed virtuous habits to identify worthy goals, one should imitate those who have. The ultimate goal of life is to achieve happiness (or flourishing, well-being, etc., depending on the translation), and while the path may differ from person to person, we all ultimately seek the same thing. True happiness is achieved by living according to the final cause of human beings: to live in accordance with reason, which is what makes us human. Still, one must consider that luck plays a role in enabling or hindering the pursuit of happiness, and total suspension of judgment is not possible. The best state is one that provides its citizens with opportunities to exercise their intellect (leisure) without relying on material wealth or status symbols.
+
+<!---------------------------------------------------------------------------->
 
 ## Choose your own path to ataraxia – Schools of thought
 
