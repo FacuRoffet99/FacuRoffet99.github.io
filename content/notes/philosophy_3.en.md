@@ -35,10 +35,10 @@ Author: Facundo Roffet
 * **Charvaka / Lokayata School** (radical empiricism): Sensory perception is the only valid source of knowledge. It tells us nothing about reincarnation or the value of rituals, so there’s no reason to believe in them. The only real thing is the material world, so seeking pleasure and avoiding pain are good.
 
 * **Buddhism** (ego suppression): The future isn’t controlled by supernatural gods—destiny is entirely self-dependent. Liberation of the soul shouldn't be sought, because there is no soul; the “self” is an illusion. Four noble truths exist: 
-    - 1. Suffering is universal, and dissatisfaction is the mind’s default state (satisfaction exists, but always fades). 
-    - 2. Dissatisfaction is caused by desire and expectations, which come from ego and the illusion of separateness. 
-    - 3. Suffering can be ended by eliminating desire—this requires eliminating the ego (achieving Nirvana). 
-    - 4. The path to Nirvana—and escape from the cycle of suffering and rebirth (*samsara*)—is through morality (speech, action, lifestyle), meditation (effort, awareness, concentration), and wisdom (understanding, resolve).
+    - 1: Suffering is universal, and dissatisfaction is the mind’s default state (satisfaction exists, but always fades). 
+    - 2: Dissatisfaction is caused by desire and expectations, which come from ego and the illusion of separateness. 
+    - 3: Suffering can be ended by eliminating desire—this requires eliminating the ego (achieving Nirvana). 
+    - 4: The path to Nirvana—and escape from the cycle of suffering and rebirth (*samsara*)—is through morality (speech, action, lifestyle), meditation (effort, awareness, concentration), and wisdom (understanding, resolve).
 
 * **Jainism** (perspectivism): Liberation comes from escaping the cycle of rebirth through nonviolence, detachment, asceticism, and the belief that reality is multifaceted and infinitely complex. Because of this, no single or absolute description is fully true—multiple partial viewpoints exist.
 

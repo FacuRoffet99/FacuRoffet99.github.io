@@ -12,13 +12,13 @@ Status: hidden
 Julio 2025
 <div class="travel-entry-gallery">
     <a href="/images/summits/trespicos1_2.jpg" data-lity>
-        <img src="/images/summits/trespicos2.jpg">
+        <img src="/images/summits/trespicos1_2.jpg">
     </a>
     <a href="/images/summits/trespicos2_2.jpg" data-lity>
-        <img src="/images/summits/trespicos1.jpg">
+        <img src="/images/summits/trespicos2_2.jpg">
     </a>
     <a href="/images/summits/trespicos3_2.jpg" data-lity>
-        <img src="/images/summits/trespicos3.jpg">
+        <img src="/images/summits/trespicos3_2.jpg">
     </a>
 </div>
 
