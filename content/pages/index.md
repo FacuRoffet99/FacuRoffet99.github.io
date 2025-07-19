@@ -19,7 +19,7 @@ Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, 
 
 También disfruto mucho de la naturaleza y la aventura. Siempre que puedo viajo para conocer nuevos lugares, ya sea solo, con amigos, familia o gente del [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). En la sección [Cumbres y senderos](/summits_and_trails.html) comparto algunas imágenes de mis travesías.
 
-📘 Aprender | 🌍 Explorar | 🤝 Conectar
+📖 Aprender | 🌍 Explorar | 🫂 Conectar
 
 <br>
 

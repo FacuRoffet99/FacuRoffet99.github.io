@@ -35,10 +35,10 @@ Author: Facundo Roffet
 *   **Escuela Chárvaka / Lokáyata** (empirismo radical) - La percepción sensorial es la única fuente válida de conocimiento, y ella no nos dice nada sobre la existencia de la reencarnación ni de la utilidad de los rituales y sacrificios. Entonces, no hay razón para creer en ellos. Lo único real es el mundo material, por lo que la búsqueda del placer y el rechazo al dolor son buenos.
 
 *   **Budismo** (supresión del ego): El futuro no está controlado por dioses sobrenaturales, el destino depende completamente de uno mismo. No se debe buscar la liberación del alma porque el alma no existe; el "yo" es una ilusión. Existen cuatro verdades nobles: 
-1. El sufrimiento es universal, y la disatisfacción es el estado por defecto de la mente humana (la satisfacción existe pero eventualmente se desvanece). 
-2. La disatisfacción es causada por el deseo y las expectativas, que a su vez son causados por el egoísmo y por la ilusión de que vivimos separados de todo el resto del universo. 
-3. El sufrimiento puede ser terminado al eliminar el deseo, y para eso hay que eliminar el ego (alcanzar el Nirvana). 
-4. El camino a seguir para alcanzar el Nirvana para así acabar con el ciclo de sufrimiento y renacimientos (samsara) es el de la moralidad (palabras, acciones y estilo de vida), la meditación (esfuerzo, conciencia y concentración) y la sabiduría (entendimiento y resolución).
+    1) El sufrimiento es universal, y la disatisfacción es el estado por defecto de la mente humana (la satisfacción existe pero eventualmente se desvanece). 
+    2) La disatisfacción es causada por el deseo y las expectativas, que a su vez son causados por el egoísmo y por la ilusión de que vivimos separados de todo el resto del universo. 
+    3) El sufrimiento puede ser terminado al eliminar el deseo, y para eso hay que eliminar el ego (alcanzar el Nirvana). 
+    4) El camino a seguir para alcanzar el Nirvana para así acabar con el ciclo de sufrimiento y renacimientos (samsara) es el de la moralidad (palabras, acciones y estilo de vida), la meditación (esfuerzo, conciencia y concentración) y la sabiduría (entendimiento y resolución).
 
 *   **Jainismo** (perspectivismo): La liberación del sufrimiento se logra al superar el ciclo de renacimientos. El camino para la liberación consiste en la no violencia, el desapego, el ascetismo y la aceptación de que la realidad es multifacética e infinitamente compleja. Debido a esto, no existe una descripción única y absoluta para algo, sino múltiples puntos de vista que son verdaderos solo parcialmente. 
 

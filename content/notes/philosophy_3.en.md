@@ -20,7 +20,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-## Suffering comes fast, but we are faster – Indian Philosophy
+## Suffering comes fast, but we are faster – Indian philosophy
 
 * **Samkhya School** (liberated consciousness): There is a dualism between *purusha* (pure consciousness) and *prakriti* (everything that is not consciousness). *Prakriti* is stable when its three qualities—roughly light, darkness, and motion—are in balance. *Purusha* is ontologically superior to *prakriti*, and liberation is realizing this: we are not bound to *prakriti* because *purusha* has always been free.
 
@@ -34,17 +34,17 @@ Author: Facundo Roffet
 
 * **Charvaka / Lokayata School** (radical empiricism): Sensory perception is the only valid source of knowledge. It tells us nothing about reincarnation or the value of rituals, so there’s no reason to believe in them. The only real thing is the material world, so seeking pleasure and avoiding pain are good.
 
-* **Buddhism** (ego suppression): The future isn’t controlled by supernatural gods—destiny is entirely self-dependent. Liberation of the soul shouldn't be sought, because there is no soul; the “self” is an illusion. Four noble truths exist:
-1. Suffering is universal, and dissatisfaction is the mind’s default state (satisfaction exists, but always fades).
-2. Dissatisfaction is caused by desire and expectations, which come from ego and the illusion of separateness.
-3. Suffering can be ended by eliminating desire—this requires eliminating the ego (achieving Nirvana).
-4. The path to Nirvana—and escape from the cycle of suffering and rebirth (*samsara*)—is through morality (speech, action, lifestyle), meditation (effort, awareness, concentration), and wisdom (understanding, resolve).
+* **Buddhism** (ego suppression): The future isn’t controlled by supernatural gods—destiny is entirely self-dependent. Liberation of the soul shouldn't be sought, because there is no soul; the “self” is an illusion. Four noble truths exist: 
+    1) Suffering is universal, and dissatisfaction is the mind’s default state (satisfaction exists, but always fades). 
+    2) Dissatisfaction is caused by desire and expectations, which come from ego and the illusion of separateness. 
+    3) Suffering can be ended by eliminating desire—this requires eliminating the ego (achieving Nirvana). 
+    4) The path to Nirvana—and escape from the cycle of suffering and rebirth (*samsara*)—is through morality (speech, action, lifestyle), meditation (effort, awareness, concentration), and wisdom (understanding, resolve).
 
 * **Jainism** (perspectivism): Liberation comes from escaping the cycle of rebirth through nonviolence, detachment, asceticism, and the belief that reality is multifaceted and infinitely complex. Because of this, no single or absolute description is fully true—multiple partial viewpoints exist.
 
 <!---------------------------------------------------------------------------->
 
-## Let it all flow, but please keep it tidy – Chinese Philosophy
+## Let it all flow, but please keep it tidy – Chinese philosophy
 
 * **Laozi** (571 BCE, China – Daoism): There is a path to unlocking one’s life force, and it is the *Dao*. Language fails to describe it: “The Dao that can be spoken is not the eternal Dao.” The Dao transcends understanding: it is everything, the source of existence, the void around things, and also nothingness. One follows the Dao through *wuwei*: effortless action, letting things run their course. “The sage acts effortlessly, teaches without words, creates without claiming, gives without expecting, and thus has nothing to lose.”
 
@@ -60,7 +60,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-## Middle Ages 2: Islamic Boogaloo – Arab-Persian Philosophy
+## Middle Ages 2: Islamic Boogaloo – Arab-Persian philosophy
 
 * **Al-Kindi** (801, Iraq – reconciliation of philosophy and Islam): For a truth-seeker, nothing matters more than truth. Truth ennobles everything and should not be dismissed—nor should the person who speaks it. Plotinus’s “One” explains that reality is a unified fullness: the universe emanates from God, who is eternal and changeless.
 
@@ -74,7 +74,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-## A Ray of Light Amid Colonial Oppression – African Philosophy
+## A ray of light amid colonial oppression – African philosophy
 
 * **Zara Yacob** (1599, Ethiopia – the enlightened one in the cave): Rational, individual observation of the world and people is the method to reveal God's purpose—not doctrines or sacred texts. God made us imperfect, so divine reward is only worthy after a quest for perfection.
 

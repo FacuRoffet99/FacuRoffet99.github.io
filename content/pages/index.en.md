@@ -19,7 +19,7 @@ Beyond my work, I have random interests in other disciplines such as philosophy,
 
 I'm also a big fan of nature and adventure. Whenever I get the chance, I travel to discover new places—be it solo, with friends, family, or folks from the [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). In the [Summits and trails](/en/summits_and_trails.html) section, I share some pictures from my journeys.
 
-📘 Learn | 🌍 Explore | 🤝 Connect
+📖 Learn | 🌍 Explore | 🫂 Connect
 
 <br>
 
