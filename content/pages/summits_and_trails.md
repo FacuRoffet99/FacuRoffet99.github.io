@@ -7,6 +7,23 @@ Status: hidden
 
 <h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Cumbres</h1>
 
+## **Cerro Tres Picos, Sierra de la Ventana, Argentina** 
+
+Julio 2025
+<div class="travel-entry-gallery">
+    <a href="/images/summits/trespicos1_2.jpg" data-lity>
+        <img src="/images/summits/trespicos2.jpg">
+    </a>
+    <a href="/images/summits/trespicos2_2.jpg" data-lity>
+        <img src="/images/summits/trespicos1.jpg">
+    </a>
+    <a href="/images/summits/trespicos3_2.jpg" data-lity>
+        <img src="/images/summits/trespicos3.jpg">
+    </a>
+</div>
+
+---
+
 ## **Cerro Champaquí, Córdoba, Argentina**
 
 Mayo 2025

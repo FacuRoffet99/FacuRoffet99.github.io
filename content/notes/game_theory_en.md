@@ -72,8 +72,8 @@ Author: Facundo Roffet
 * In a biological context, strategies can be linked to genes and payoffs to genetic fitness. These strategies are not chosen rationally but are “hardwired” biologically.
 * A strategy spreads if it performs well (i.e., the population with the gene reproduces) or dies out if it performs poorly (gene extinction). What matters is gene survival, not the individual.
 * In a symmetric two-player game, a strategy s' (pure or mixed) is evolutionarily stable (ES) if:
-    1. (s', s') is a NE (u(s',s') ≥ u(s,s') for all s).
-    2. If u(s',s') = u(s,s') for some s, then u(s',s) > u(s,s) (the original strategy must beat the invader when facing it).
+    - 1. (s', s') is a NE (u(s',s') ≥ u(s,s') for all s).
+    - 2. If u(s',s') = u(s,s') for some s, then u(s',s) > u(s,s) (the original strategy must beat the invader when facing it).
 * In the prisoner’s dilemma, cooperation is not ES but defection is.
 
 ## Sequential games
@@ -103,10 +103,10 @@ Author: Facundo Roffet
 
 * Cooperation can emerge and be sustained even when players are purely self-interested; altruism is not required.
 * Tit for Tat and other well-performing strategies share four characteristics:
-    1. Niceness: they cooperate by default.
-    2. Forgiveness: they don’t let past rounds (beyond the last) influence current decisions.
-    3. Provocability: they retaliate immediately when wronged.
-    4. Clarity: they are understandable and help establish a pattern of trust.
+    - 1. Niceness: they cooperate by default.
+    - 2. Forgiveness: they don’t let past rounds (beyond the last) influence current decisions.
+    - 3. Provocability: they retaliate immediately when wronged.
+    - 4. Clarity: they are understandable and help establish a pattern of trust.
 * There is no optimal strategy—what works best depends on who you're interacting with.
 * Since real environments are noisy (a cooperation may be mistaken for defection and vice versa), TFT’s weakness is the possibility of infinite retaliation loops.
 * More complex strategies may include features like: tolerance (accepting and forgiving mistakes), memory (remembering more than the last state), adaptation (adjusting to the opponent’s behavior), and contextuality (forming alliances and punishing opportunists).

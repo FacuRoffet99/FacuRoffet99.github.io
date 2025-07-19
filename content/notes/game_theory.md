@@ -72,8 +72,8 @@ Author: Facundo Roffet
 *   En un contexto biológico, se pueden asociar a las estrategias con genes y a las recompensas con aptitud genética. Dichas estrategias no son elegidas por individuos racionales sino que están "cableadas" biológicamente.
 *   Una estrategia crece si le va bien (la población con el gen continúa reproduciéndose) o muere si le va mal (la población con el gen se extingue). Lo que importa es la supervivencia del gen, no la del individuo.
 *   En un juego simétrico de dos jugadores, una estrategia s' (ya sea pura o mixta) es evolutivamente estable (ES) si se cumplen dos condiciones:
-    1) El perfil (s', s') es un NE (u(s',s') ≥ u(s,s') para todo s). 
-    2) Si u(s',s') = u(s,s') para algún s, entonces se tiene que dar que u(s',s) > u(s,s) (la estrategia original debe ser mejor contra la invasora que la invasora contra sí misma). 
+    - 1. El perfil (s', s') es un NE (u(s',s') ≥ u(s,s') para todo s).
+    - 2. Si u(s',s') = u(s,s') para algún s, entonces se tiene que dar que u(s',s) > u(s,s) (la estrategia original debe ser mejor contra la invasora que la invasora contra sí misma).
 *   En el dilema del prisionero, cooperar no es una estrategia ES pero desertar sí lo es.
 
 ## Juegos secuenciales
@@ -103,10 +103,10 @@ Author: Facundo Roffet
 
 *   La cooperación puede emerger y sostenerse aún cuando los jugadores solo están motivados por su interés propio; el altruismo no es necesario. 
 *   Tit for Tat y las demás estrategias con buenos desempeños poseen cuatro características:
-    1) Bondad: cooperan por defecto.
-    2) Perdón: no dejan que las rondas anteriores a la última influencien las decisiones actuales.
-    3) Provocabilidad: no se dejan pasar por encima, toman represalias inmediatamente.
-    4) Claridad: es posible entenderlas y  establecer un patrón de confianza con ellas.
+    - 1. Bondad: cooperan por defecto.
+    - 2. Perdón: no dejan que las rondas anteriores a la última influencien las decisiones actuales.
+    - 3. Provocabilidad: no se dejan pasar por encima, toman represalias inmediatamente.
+    - 4. Claridad: es posible entenderlas y  establecer un patrón de confianza con ellas.
 *   No existe una estrategia óptima, siempre la mejor elección depende de las estrategias con las que se vaya a interactuar.
 *   Como un ambiente realista es ruidoso (existe una pequeña probabilidad de que una cooperación sea percibida como una deserción y visceversa), TFT tiene la limitación de permitir bucles infinitos de represalias. 
 *   Algunas características que incorporan estrategias más complejas son: tolerancia (aceptar que los errores existen y perdonarlos), memoria (recordar estados previos al último), adaptación (cambiar de comportamiento de acuerdo al oponente) y contextualidad (formar alianzas y castigar a oportunistas).
