@@ -11,7 +11,7 @@ Status: hidden
 
 ## 🔱 About me
 
-Hello, I’m Facu, an electronic engineer who realized I really don’t like circuits. In a moment of complete serendipity during the pandemic, I came across the YouTube channel [DotCSV](https://www.youtube.com/@DotCSV) and almost instantly discovered that my true passion was artificial intelligence (particularly deep learning). So I decided to start learning about it on my own (I can’t recommend the [FastAI course](https://course.fast.ai/) enough).
+Hi, I'm Facu, an electronic engineer who realized that circuits weren't his thing. In a moment of complete serendipity during the pandemic, I came across the YouTube channel [DotCSV](https://www.youtube.com/@DotCSV) and almost instantly discovered that my true passion was artificial intelligence (particularly deep learning). So I decided to start learning about it on my own (I can’t recommend the [FastAI course](https://course.fast.ai/) enough).
 
 Fortunately for my career, the National University of the South (Universidad Nacional del Sur - UNS) has the Image Science Laboratory (Laboratorio de Ciencias de las Imágenes - LCI), a nationally renowned institution for research, development, and technology transfer in image processing and remote sensing. There I met [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (LCI director), who quickly became my mentor and introduced me to [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). The three of us outlined a work plan for me to apply to the CONICET Internal Doctoral Scholarship for Strategic Topics. After obtaining it in 2023, I have specialized in using deep learning and brain fMRI data to improve early diagnosis and understanding of neurodegenerative diseases.
 
@@ -25,15 +25,19 @@ I'm also a big fan of nature and adventure. Whenever I get the chance, I travel 
 
 <!---------------------------------------------------------------------------->
 
-## 🎓 Education
+## 🏢 Industry projects
 
-**PhD in Engineering (April 2023 – Present)**
+**Viterra (January 2025 – April 2025):**
+Conceptualization and development of an application that allows operators to automate the quality control process in seed hulling machines, improving measurement consistency and freeing up valuable operational staff time. The application contains a regression model that, based on photographs of seed samples, predicts the percentages of whole seeds (MAE: 1.50) and damaged seeds (MAE: 3.09).
 
-* National University of the South, Bahía Blanca, Argentina
+**SpaceSur (November 2023 – December 2024):**
+Development of pipelines to process satellite images. Trained models on public datasets for building segmentation (mAP@0.5: 0.8140) and landfill classification (F1 score: 0.8897). Deliver of a modular codebase to facilitate and streamline future iterations with customer-specific data.
 
-**Electronic Engineering (March 2017 – December 2022)**
+**Practia (July 2022 – February 2024):**
+Technical consulting and mentoring. Strategic guidance for a novice team to address and execute their first deep learning projects, shortening their learning curve and ensuring the adoption of best practices.
 
-* National University of the South, Bahía Blanca, Argentina
+**ECODOC (May 2022 – April 2024):**
+Preprocessing and organization of a dataset of more than 3,000 panoramic dental X-ray images. Model training for tooth segmentation (mAP@0.5: 0.9230) and detection of pathologies such as caries (F1 score: 0.8504) and retentions (F1 score: 0.9127), with the goal of subsequently integrating them into an on-demand software service.
 
 <br>
 
@@ -66,28 +70,24 @@ Use of information theory to evaluate fMRI harmonization techniques, finding tha
 
 <!---------------------------------------------------------------------------->
 
-## 🏢 Industry projects
+## 💻 Software packages
 
-**Viterra (January 2025 – April 2025):**
-Conceptualization and development of an application enabling operators to automate quality control in seed shellers. It includes a regression model that, from photographs, predicts the percentages of whole seeds (MAE: 1.50) and damaged seeds (MAE: 3.09) in seed samples.
-
-**SpaceSur (November 2023 – December 2024):**
-Development of pipelines to process satellite images. Trained models on public datasets for building segmentation (mAP@0.5: 0.8140) and landfill classification (F1 score: 0.8897). Wrote code to fine-tune models with future new data.
-
-**Practia (July 2022 – February 2024):**
-Consulting service to guide a novice team in executing deep learning and computer vision projects for the first time. Addressed questions on task approaches and successful model training.
-
-**ECODOC (May 2022 – April 2024):**
-Preprocessing and organization of a dataset of over 3,000 panoramic dental X-ray images. Trained models for tooth segmentation (mAP@0.5: 0.9230) and pathology detection such as cavities (F1 score: 0.8504) and retention (F1 score: 0.9127), now part of an on-demand software service.
+**DLOlympus:**
+A Python library with tools and templates to streamline deep learning model training and inference. Adds extra functionality to FastAI and MMDetection. [LINK](https://github.com/FacuRoffet99/DLOlympus)
 
 <br>
 
 <!---------------------------------------------------------------------------->
 
-## 💻 Software packages
+## 🎓 Education
 
-**DLOlympus:**
-A Python library with tools and templates to streamline deep learning model training and inference. Adds extra functionality to FastAI and MMDetection. [LINK](https://github.com/FacuRoffet99/DLOlympus)
+**PhD in Engineering (April 2023 – Present)**
+
+* National University of the South, Bahía Blanca, Argentina
+
+**Electronic Engineering (March 2017 – December 2022)**
+
+* National University of the South, Bahía Blanca, Argentina
 
 <br>
 
