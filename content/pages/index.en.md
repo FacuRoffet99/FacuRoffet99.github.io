@@ -53,7 +53,7 @@ Study and development of deep learning–based tools for simulating and predicti
 **MultiCaRe Project (January 2024 – Present):**
 Use of hierarchical ontologies and semi-supervised learning techniques to improve both label quality and data structuring in a medical image dataset of over 150,000 samples across 140 hierarchical categories.
 
-* An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Under review*, 2025
+* An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://www.mdpi.com/2306-5729/10/8/123).
 * The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
 
 **Erythrocyte project (October 2022 – June 2024):**
