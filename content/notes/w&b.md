@@ -1,8 +1,8 @@
 Title: Plataforma Weights & Biases
 Date: 2025-08-04 12:15
-Category: IA
+Category: MLOps
 Lang: es
-Slug: ai_1
+Slug: mlops_1
 Author: Facundo Roffet
 
 <!-- Hide default title -->
@@ -12,7 +12,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-> Estas son mis notas personales de los cursos [Weights & Biases 101](https://wandb.ai/site/courses/101/), [Weights & Biases 201: Model Registry](https://www.wandb.courses/courses/201-model-registry) y [Weights & Biases 101: Weave](https://wandb.ai/site/courses/weave/). 
+> Estas son mis notas personales de los cursos [Weights & Biases 101](https://wandb.ai/site/courses/101/), [Weights & Biases 201: Model Registry](https://www.wandb.courses/courses/201-model-registry), [Weights & Biases 101: Weave](https://wandb.ai/site/courses/weave/) y [Effective MLOps: Model development](https://wandb.ai/site/courses/effective-mlops/). 
 
 <!---------------------------------------------------------------------------->
 
@@ -148,3 +148,39 @@ evaluation.evaluate(model)
 # Only needed on notebooks
 run.finish()
 ```
+
+<!----------------------------------------------------------------------------> 
+
+## Pipeline de buenas prácticas
+
+#### 1. Explorar los datos
+* Inicializar una Run con `job_type='data_upload'`.
+* Crear un Artifact con `type='raw_data'`.
+* Añadir todos los archivos y carpetas al Artifact.
+* Crear una tabla con los datos y añadirla al Artifact.
+* Crear un Report con la tabla y anotar los hallazgos importantes.
+
+#### 2. Crear un dataset
+* Inicializar una Run con `job_type='data_processing'`. 
+* Descargar el Artifact del paso anterior (con los datos crudos).
+* Procesar los datos según corresponda teniendo en cuenta los hallazgos del Report (split en train/valid/test, filtrado, etc).
+* Crear un Artifact con `type='dataset'`. 
+* Crear una nueva tabla de datos y añadirla al nuevo Artifact.
+
+#### 3. Entrenar un modelo
+* Integrar W&B con el framework de ML a utilizar.
+* Almacenar todos los hiperparámetros en `wandb.config` .
+* Descargar el Artifact del paso anterior (con el dataset).
+* Inicializar una Run con `job_type='model_training'`. 
+* Entrenar un modelo.
+* Crear un Artifact con `type='model'`. 
+* Guardar las métricas finales en el diccionario `wandb.summary`. 
+* Iterar focalizándose en la optimización de una única métrica. Establecer umbrales de mínimos y máximos para las demás métricas. 
+
+#### 4. Evaluar un modelo
+* Inicializar una Run con `job_type='model_evaluation'`. 
+* Descargar el Artifact del paso anterior (con el modelo).
+* Chequear que las métricas de validación sean las mismas que antes.
+* Crear y loggear tablas y gráficos según corresponda (tablas de predicciones, matrices de confusión, histogramas, etc). 
+* Crear un Report con los resultados y hacer análisis de errores.
+* Una vez seleccionado un modelo para ser usado en producción, hacer inferencia en el test set y comprobar que las métricas sean creíbles y similares a las de validación. Si pasa la evaluación, promover el modelo al Model Registry. Caso contrario, significa que hay overfitting de validación o problemas de data leakage.

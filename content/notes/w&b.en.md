@@ -1,8 +1,8 @@
 Title: Weights & Biases platform
 Date: 2025-08-04 12:15
-Category: AI
+Category: MLOps
 Lang: en
-Slug: ai_1
+Slug: mlops_1
 Author: Facundo Roffet
 
 <!-- Hide default title -->
@@ -12,7 +12,7 @@ Author: Facundo Roffet
 
 <!---------------------------------------------------------------------------->
 
-> These are my personal notes from the courses [Weights & Biases 101](https://wandb.ai/site/courses/101/), [Weights & Biases 201: Model Registry](https://www.wandb.courses/courses/201-model-registry), and [Weights & Biases 101: Weave](https://wandb.ai/site/courses/weave/).
+> These are my personal notes from the courses [Weights & Biases 101](https://wandb.ai/site/courses/101/), [Weights & Biases 201: Model Registry](https://www.wandb.courses/courses/201-model-registry), [Weights & Biases 101: Weave](https://wandb.ai/site/courses/weave/) and [Effective MLOps: Model development](https://wandb.ai/site/courses/effective-mlops/).
 
 <!---------------------------------------------------------------------------->
 
@@ -149,3 +149,41 @@ evaluation.evaluate(model)
 # Only needed in notebooks
 run.finish()
 ```
+
+Aquí tenés la traducción al inglés de la nueva sección, adaptada al estilo del resto del documento:
+
+<!---------------------------------------------------------------------------->
+
+## Best practices pipeline
+
+#### 1. Explore the data
+* Initialize a Run with `job_type='data_upload'`.
+* Create an Artifact with `type='raw_data'`.
+* Add all files and folders to the Artifact.
+* Create a Table with the data and add it to the Artifact.
+* Create a Report with the Table and annotate key findings.
+
+#### 2. Create a dataset
+* Initialize a Run with `job_type='data_processing'`.
+* Download the raw data Artifact from the previous step.
+* Process the data as needed, based on the findings in the Report (e.g., train/valid/test split, filtering, etc.).
+* Create an Artifact with `type='dataset'`.
+* Create a new data Table and add it to the new Artifact.
+
+#### 3. Train a model
+* Integrate W\&B with the ML framework being used.
+* Store all hyperparameters in `wandb.config`.
+* Download the dataset Artifact from the previous step.
+* Initialize a Run with `job_type='model_training'`.
+* Train a model.
+* Create an Artifact with `type='model'`.
+* Save final metrics to the `wandb.summary` dictionary.
+* Iterate with a focus on optimizing a single key metric. Set minimum/maximum thresholds for the remaining metrics.
+
+#### 4. Evaluate a model
+* Initialize a Run with `job_type='model_evaluation'`.
+* Download the model Artifact from the previous step.
+* Ensure validation metrics are consistent with previous runs.
+* Create and log appropriate tables and visualizations (prediction tables, confusion matrices, histograms, etc.).
+* Create a Report with the results and perform error analysis.
+* Once a model is selected for production, run inference on the test set and verify that metrics are realistic and similar to validation. If it passes evaluation, promote the model to the Model Registry. If not, it likely indicates validation overfitting or data leakage issues.
