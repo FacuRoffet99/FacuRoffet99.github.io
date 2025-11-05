@@ -50,13 +50,13 @@ Study and development of deep learning–based tools for simulating and predicti
 
 * Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Preprint on arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329)
 
-**MultiCaRe Project (January 2024 – Present):**
+**MultiCaRe project (January 2024 – July 2025):**
 Use of hierarchical ontologies and semi-supervised learning techniques to improve both label quality and data structuring in a medical image dataset of over 150,000 samples across 140 hierarchical categories.
 
 * An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://www.mdpi.com/2306-5729/10/8/123).
 * The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
 
-**Erythrocyte project (October 2022 – June 2024):**
+**Erythrocytes project (October 2022 – June 2024):**
 Design of a methodology to automatically detect five anomalies in avian red blood cells using an imbalanced dataset to enable rapid, less subjective analysis (F1 score: 0.7703).
 
 * Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41)

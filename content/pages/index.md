@@ -50,7 +50,7 @@ Estudio y desarrollo de herramientas basadas en deep learning para la simulació
 
 *   Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Preprint en arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329).
 
-**Proyecto MultiCaRe (Enero 2024 - Presente):** 
+**Proyecto MultiCaRe (Enero 2024 - Julio 2025):** 
 Utilización de ontologías jerárquicas y técnicas de aprendizaje semi-supervisado para mejorar tanto la calidad de las etiquetas como la estructuración de los datos en un dataset de imágenes médicas compuesto de más de 150000 muestras y 140 categorías jerárquicas.
 
 *   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://www.mdpi.com/2306-5729/10/8/123).
