@@ -40,10 +40,6 @@ h1#index {
   display: none;
 }
 
-h1#summits_and_trails {
-  display: none;
-}
-
 .travel-entry-gallery {
   display: flex;
   flex-wrap: wrap;

@@ -17,7 +17,7 @@ Fortunately for my career, the National University of the South (Universidad Nac
 
 Beyond my work, I have random interests in other disciplines such as philosophy, geography, and psychology. I’m a strong advocate of learning for its own sake, not just as a means to an end, so I spend part of my free time watching online courses and taking notes. My notes are primarily designed for my own understanding, but I make them available in the [Course Notes](/en/notes/) section in case they’re helpful to anyone else.
 
-I'm also a big fan of nature and adventure. Whenever I get the chance, I travel to discover new places—be it solo, with friends, family, or folks from the [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). In the [Summits and trails](/en/summits_and_trails.html) section, I share some pictures from my journeys.
+I'm also a big fan of nature and adventure. Whenever I get the chance, I travel to discover new places—be it solo, with friends, family, or folks from the [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). Additionally, at [@stratocurious](https://www.instagram.com/stratocurious/) I share photos of clouds while I learn to classify them.
 
 📖 Learn | 🌍 Explore | 🫂 Connect
 
@@ -48,23 +48,23 @@ Preprocessing and organization of a dataset of more than 3,000 panoramic dental 
 **Doctoral project (April 2023 – Present):**
 Study and development of deep learning–based tools for simulating and predicting whole-brain neuronal activity and its evolution in disease states by defining biomarkers. The goal is for these tools to predict treatment effects and drug responses in neurodegenerative diseases (Parkinson’s, Alzheimer’s, etc.) to contribute to personalized diagnosis.
 
-* Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Preprint on arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329)
+*   Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Scientific Reports*, 2025. [LINK](https://doi.org/10.1038/s41598-025-24702-4).
 
 **MultiCaRe project (January 2024 – July 2025):**
 Use of hierarchical ontologies and semi-supervised learning techniques to improve both label quality and data structuring in a medical image dataset of over 150,000 samples across 140 hierarchical categories.
 
-* An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://www.mdpi.com/2306-5729/10/8/123).
-* The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
+*   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://doi.org/10.3390/data10080123).
+*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://doi.org/10.1177/15705838251340362).
 
 **Erythrocytes project (October 2022 – June 2024):**
 Design of a methodology to automatically detect five anomalies in avian red blood cells using an imbalanced dataset to enable rapid, less subjective analysis (F1 score: 0.7703).
 
-* Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41)
+*   Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://doi.org/10.3390/mca29030041).
 
 **Undergraduate thesis (September 2021 – August 2022):**
 Use of information theory to evaluate fMRI harmonization techniques, finding that common methods do not completely eliminate site-specific biases.
 
-* Assessing Multi-Site rs-fMRI-Based Connectomic Harmonization Using Information Theory. *Brain Sciences*, 2022. [LINK](https://www.mdpi.com/2076-3425/12/9/1219)
+*   Assessing Multi-Site rs-fMRI-Based Connectomic Harmonization Using Information Theory. *Brain Sciences*, 2022. [LINK](https://doi.org/10.3390/brainsci12091219).
 
 <br>
 

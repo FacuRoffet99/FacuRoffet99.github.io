@@ -17,7 +17,7 @@ Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el L
 
 Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, la geografía y la psicología me despiertan un gran interés. Soy un gran defensor del aprendizaje como un fin en sí mismo y no solo como un mero medio, así que dedico parte de mi tiempo libre a ver cursos online y tomar notas de ellos. Mis notas están más que nada diseñadas para ser entendidas por mi mismo, pero las dejo disponibles en la sección [Notas de cursos](/notes/) por si les llegan a servir a alguien.
 
-También disfruto mucho de la naturaleza y la aventura. Siempre que puedo viajo para conocer nuevos lugares, ya sea solo, con amigos, familia o gente del [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). En la sección [Cumbres y senderos](/summits_and_trails.html) comparto algunas imágenes de mis travesías.
+También disfruto mucho de la naturaleza y la aventura. Siempre que puedo viajo para conocer nuevos lugares, ya sea solo, con amigos, familia o gente del [Club Andino Bahía Blanca](https://www.instagram.com/clubandinobahiablanca/). Además, en [@stratocurious](https://www.instagram.com/stratocurious/) comparto fotos de nubes mientras aprendo a clasificarlas.
 
 📖 Aprender | 🌍 Explorar | 🫂 Conectar
 
@@ -48,23 +48,23 @@ Preprocesado y organizacíon de un dataset de más de 3000 imágenes de radiogra
 **Proyecto doctoral (Abril 2023 - Presente):** 
 Estudio y desarrollo de herramientas basadas en deep learning para la simulación y predicción de la actividad neuronal del cerebro completo (whole-brain) y su evolución en situaciones de enfermedad mediante la definición de biomarcadores. El objetivo es que estas herramientas permitan predecir el efecto de tratamientos y la respuesta a fármacos en casos de enfermedades neurodegenerativas (Parkinson, Alzheimer, etc) para generar un aporte al diagnóstico personalizado.
 
-*   Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Preprint en arXiv*, 2024. [LINK](https://arxiv.org/abs/2412.19329).
+*   Deep Learning and Whole-Brain Networks for Biomarker Discovery: Modeling the Dynamics of Brain Fluctuations in Resting-State and Cognitive Tasks. *Scientific Reports*, 2025. [LINK](https://doi.org/10.1038/s41598-025-24702-4).
 
 **Proyecto MultiCaRe (Enero 2024 - Julio 2025):** 
 Utilización de ontologías jerárquicas y técnicas de aprendizaje semi-supervisado para mejorar tanto la calidad de las etiquetas como la estructuración de los datos en un dataset de imágenes médicas compuesto de más de 150000 muestras y 140 categorías jerárquicas.
 
-*   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://www.mdpi.com/2306-5729/10/8/123).
-*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://journals.sagepub.com/doi/10.1177/15705838251340362).
+*   An Open-Source Clinical Case Dataset for Medical Image Classification and Multimodal AI Applications. *Data*, 2025. [LINK](https://doi.org/10.3390/data10080123).
+*   The Multiplex Classification Framework: Optimizing Multi-Label Classifiers through Problem Transformation, Ontology Engineering, and Model Ensembling. *Applied Ontology*, 2025. [LINK](https://doi.org/10.1177/15705838251340362).
 
 **Proyecto Eritrocitos (Octubre 2022 - Junio 2024):** 
 Diseño de una metodología para detectar automáticamente cinco anomalías de glóbulos rojos (eritrocitos) en aves marinas utilizando un dataset desbalanceado para permitir un análisis rápido y menos dependiente de la interpretación humana (F1 score: 0.7703).
 
-*   Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://www.mdpi.com/2297-8747/29/3/41).
+*   Integrating Deep Learning into Genotoxicity Biomarker Detection for Avian Erythrocytes: A Case Study in a Hemispheric Seabird. *Mathematical and Computational Applications*, 2024. [LINK](https://doi.org/10.3390/mca29030041).
 
 **Tesis de grado (Septiembre 2021 - Agosto 2022):**
 Utilización de la teoría de la información para evaluar técnicas de armonización de fMRI, descubriendo que los métodos comunes no eliminan por completo los sesgos introducidos por los diferentes sitios de adquisición.
 
-*   Assessing Multi-Site rs-fMRI-Based Connectomic Harmonization Using Information Theory. *Brain Sciences*, 2022. [LINK](https://www.mdpi.com/2076-3425/12/9/1219).
+*   Assessing Multi-Site rs-fMRI-Based Connectomic Harmonization Using Information Theory. *Brain Sciences*, 2022. [LINK](https://doi.org/10.3390/brainsci12091219).
 
 <br>
 
