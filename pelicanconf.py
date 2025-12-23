@@ -4,12 +4,12 @@
 import os
 import sys
 sys.path.append(os.curdir)
-from pelicanconf import *
+# from pelicanconf import *
 
 AUTHOR = 'Facundo Roffet'
 SITENAME = 'Facundo Roffet'
-# SITEURL = "http://127.0.0.1:8000"
-SITEURL = "https://FacuRoffet99.github.io"
+SITEURL = "http://127.0.0.1:8000"
+# SITEURL = "https://FacuRoffet99.github.io"
 RELATIVE_URLS = False
 
 PATH = "content"
@@ -72,7 +72,7 @@ LOCALE = [
 ]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites', 'render_math']
 I18N_SUBSITES = {
     'en': {
         'LOCALE': 'en_US.UTF-8',
@@ -81,4 +81,11 @@ I18N_SUBSITES = {
             ("Course notes", "/notes/"),
         ),
     },
+}
+
+TYPOGRIFY = False
+MATH_JAX = {
+    'auto_insert': True,
+    'responsive': True, 
+    'message_style': 'none'
 }

@@ -16,7 +16,8 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-# DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""
+# 2. FORCE these settings again for Production
+TYPOGRIFY = False
+# 3. Ensure Plugin Paths are absolute to avoid build errors
+PLUGIN_PATHS = [os.path.abspath('./plugins')]
+PLUGINS = ['i18n_subsites', 'render_math']
