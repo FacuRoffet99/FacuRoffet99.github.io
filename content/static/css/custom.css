@@ -1,15 +1,15 @@
 /* content/static/css/custom.css */
 
-/* Ejemplo para cambiar el color de los enlaces */
-/* Reemplaza 'a' o '.otro-selector a' con el selector correcto */
+/* Link color configuration */
+/* Use 'a' or a more specific selector like '.container a' */
 a,
-a:visited { /* Aplica a enlaces normales y visitados */
+a:visited { /* Styles for both default and visited link states */
     color: rgba(12, 205, 76, 0.927);
 }
 
-/* Ejemplo para cambiar el color de los enlaces al pasar el ratón */
+/* Link hover state */
 a:hover {
-    color: rgb(0, 255, 85); /* Elige un color para el hover */
+    color: rgb(0, 255, 85); /* Define the hover color here */
 } 
 
 aside {
@@ -43,28 +43,34 @@ h1#index {
 .travel-entry-gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px; /* Espacio entre imágenes */
-  margin-bottom: 2em; /* Espacio después de cada galería */
-  justify-content: space-around; /* O center, space-between */
+  gap: 5px; /* Spacing between gallery items */
+  margin-bottom: 2em; /* Bottom margin for the gallery container */
+  justify-content: space-around; /* Alignment options: center, space-between, etc. */
 }
 
 .travel-entry-gallery img {
-  max-width: 240px; /* Ajusta para el número de imágenes que quieres por fila */
-  height: auto;  /* Mantiene la proporción */
-  border-radius: 8px; /* Bordes redondeados (opcional) */
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.8); /* Sombra ligera (opcional) */
-  object-fit: cover; /* Para que todas las imágenes llenen su espacio asignado sin distorsionarse */
-  aspect-ratio: 3/5; /* O 3/2, 16/9 - para que todas tengan la misma forma si son de diferentes proporciones */
+  max-width: 240px; /* Adjust max-width to control the number of images per row */
+  height: auto;  /* Maintain original aspect ratio */
+  border-radius: 8px; /* Optional: Rounded corners */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.8); /* Optional: Subtle drop shadow */
+  object-fit: cover; /* Scale images to cover the area without distortion */
+  aspect-ratio: 3/5; /* Enforce a consistent aspect ratio (e.g., 3/2, 16/9) */
 }
 
-/* Media query para móviles, para que las imágenes ocupen más ancho */
+/* Responsive adjustments for mobile devices */
 @media (max-width: 768px) {
   .travel-entry-gallery img {
-    max-width: 45%; /* Dos imágenes por fila */
+    max-width: 45%; /* Display two images per row */
   }
 }
 @media (max-width: 480px) {
   .travel-entry-gallery img {
-    max-width: 90%; /* Una imagen por fila */
+    max-width: 90%; /* Display one image per row */
   }
+}
+
+/* Show SITETITLE for the sidebar on notes */
+aside h1 {
+    display: block !important;
+    color: rgba(12, 205, 76, 0.927);
 }

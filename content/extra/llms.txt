@@ -1,0 +1,24 @@
+# Facundo Roffet
+
+> Doctoral researcher in deep learning and neuroscience at UNS–CONICET, Bahía Blanca, Argentina.
+
+## About
+- Personal portfolio and course notes site
+- Research focus: deep learning applied to whole-brain fMRI analysis and neurodegeneration
+- Also covers MLOps, philosophy, game theory, earth sciences
+
+## Notes
+- /notes/mlops_1.html: Weights & Biases platform (experiment tracking, W&B Weave, MLOps pipeline)
+- /notes/losses.html: Taxonomy of deep learning loss functions
+- /notes/decision_making_1.html: Game theory (Nash equilibrium, repeated games, Axelrod tournaments)
+- /notes/philosophy_1.html: Ancient philosophy
+- /notes/philosophy_2.html: Medieval and Renaissance philosophy
+- /notes/philosophy_3.html: Non-Western philosophy
+- /notes/weather_and_climate.html: Weather and climate fundamentals
+
+## Publications
+- https://doi.org/10.1038/s41598-025-24702-4
+- https://doi.org/10.3390/data10080123
+- https://doi.org/10.1177/15705838251340362
+- https://doi.org/10.3390/mca29030041
+- https://doi.org/10.3390/brainsci12091219

@@ -4,6 +4,7 @@ Category: Filosofía
 Lang: es
 Slug: philosophy_3
 Author: Facundo Roffet
+Summary: Notas personales sobre filosofía no occidental: escuelas indias (budismo, jainismo, Samkhya), filosofía china (Confucio, Laozi, Zhuangzi) y filosofía árabe-persa (Avicena, Averroes, Al-Ghazali). Basadas en A.C. Grayling y el podcast Philosophize This!
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

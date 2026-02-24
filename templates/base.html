@@ -5,8 +5,9 @@
 {% endif %}
 
 <!DOCTYPE html>
-<html lang="{{ DEFAULT_LANG }}">
+<html lang="{{ article.lang if article else (page.lang if page else DEFAULT_LANG) }}">
 <head>
+  <meta name="google-site-verification" content="INdw2E2wJywpFBxXQIqnaI5VeI87ExbcJal7eUR0Vro" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.css" integrity="sha512-UiL1A9T3U7GVOLKkzMBOFV3IKcKKSQ1OhSNEt7lZL9SFLKTrM2MT3OUQoSKHBJ/cBO8M9V3q0//L2LOmVFF39A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -130,6 +131,13 @@
         <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
       {% endif %}
     {% endif %}
+    {% if article %}
+      <link rel="alternate" hreflang="es" href="https://FacuRoffet99.github.io/notes/{{ article.slug }}.html"/>
+      <link rel="alternate" hreflang="en" href="https://FacuRoffet99.github.io/en/notes/{{ article.slug }}.html"/>
+    {% elif page %}
+      <link rel="alternate" hreflang="es" href="https://FacuRoffet99.github.io/"/>
+      <link rel="alternate" hreflang="en" href="https://FacuRoffet99.github.io/en/"/>
+    {% endif %}    
   {% endif %} 
 
   {% block meta %}

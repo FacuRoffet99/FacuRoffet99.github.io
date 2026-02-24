@@ -4,6 +4,7 @@ Category: Filosofía
 Lang: es
 Slug: philosophy_1
 Author: Facundo Roffet
+Summary: Notas personales sobre filosofía antigua: presocráticos, Sócrates, Platón y Aristóteles, y las escuelas estoica, epicúrea, cínica, escéptica y neoplatónica. Basadas en A.C. Grayling y el podcast Philosophize This!
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

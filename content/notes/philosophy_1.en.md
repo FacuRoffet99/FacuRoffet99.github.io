@@ -4,6 +4,7 @@ Category: Phylosophy
 Lang: en
 Slug: philosophy_1
 Author: Facundo Roffet
+Summary: Personal notes on ancient philosophy: the pre-Socratics, Socrates, Plato, Aristotle, and the Stoic, Epicurean, Cynic, Skeptic, and Neoplatonist schools. Based on A.C. Grayling and the Philosophize This! podcast.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

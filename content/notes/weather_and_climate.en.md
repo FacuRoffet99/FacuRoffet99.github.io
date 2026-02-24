@@ -4,6 +4,7 @@ Category: Earth sciences
 Lang: en
 Slug: weather_and_climate
 Author: Facundo Roffet
+Summary: Personal notes on weather and climate: cloud types, atmospheric phenomena, and fundamental concepts in meteorology and climatology. Based on Mel Strong's YouTube course.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

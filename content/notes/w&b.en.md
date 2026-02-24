@@ -4,6 +4,7 @@ Category: MLOps
 Lang: en
 Slug: mlops_1
 Author: Facundo Roffet
+Summary: Personal notes on the Weights & Biases platform: experiment tracking, Model Registry, W&B Weave for LLMs, and MLOps best practices pipeline.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

@@ -4,6 +4,7 @@ Category: Toma de decisiones
 Lang: es
 Slug: decision_making_1
 Author: Facundo Roffet
+Summary: Notas personales sobre teoría de juegos: dominancia de estrategias, equilibrio de Nash, juegos de coordinación, estrategias mixtas, evolución, juegos secuenciales e interacciones repetidas. Basadas en el curso de Ben Polak (Yale) y Veritasium.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

@@ -20,4 +20,4 @@ DELETE_OUTPUT_DIRECTORY = True
 TYPOGRIFY = False
 # 3. Ensure Plugin Paths are absolute to avoid build errors
 PLUGIN_PATHS = [os.path.abspath('./plugins')]
-PLUGINS = ['i18n_subsites', 'render_math']
+PLUGINS = ['pelican.plugins.i18n_subsites', 'pelican.plugins.render_math', 'pelican.plugins.sitemap']

@@ -4,6 +4,7 @@ Category: Deep Learning
 Lang: en
 Slug: losses
 Author: Facundo Roffet
+Summary: A structured taxonomy of loss functions in deep learning, organized by task type and objective mechanism. Covers discriminative and generative tasks with a focus on modern computer vision and machine learning.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

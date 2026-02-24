@@ -4,6 +4,7 @@ Category: Decision making
 Lang: en
 Slug: decision_making_1
 Author: Facundo Roffet
+Summary: Personal notes on game theory: strategy dominance, Nash equilibrium, coordination games, mixed strategies, evolution, sequential games, and repeated interactions. Based on Ben Polak's Yale course and Veritasium.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

@@ -4,6 +4,7 @@ Category: Ciencias de la Tierra
 Lang: es
 Slug: weather_and_climate
 Author: Facundo Roffet
+Summary: Notas personales sobre tiempo y clima: tipos de nubes, fenómenos atmosféricos y conceptos fundamentales de meteorología y climatología. Basadas en el curso de Mel Strong en YouTube.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

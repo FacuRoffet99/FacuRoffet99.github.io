@@ -1,7 +1,6 @@
 Title: Inicio
 Lang: es
 Slug: index
-Status: hidden
 
 <h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Facundo Roffet</h1>
 
@@ -128,3 +127,6 @@ Librería de Python que contiene herramientas y plantillas para hacer más facil
 *   LinkedIn: [facu-roffet](https://www.linkedin.com/in/facu-roffet/)
 *   GitHub: [FacuRoffet99](https://github.com/FacuRoffet99)
 *   Google Scholar: [Facundo Roffet](https://scholar.google.com/citations?user=miBMD38AAAAJ&hl)
+*   ORCID: [0000-0002-7788-4612](https://orcid.org/0000-0002-7788-4612)
+
+Afiliado al [Laboratorio de Ciencias de las Imágenes](https://imaglabs.org/) de la [Universidad Nacional del Sur](https://www.uns.edu.ar) y al [CONICET](https://www.conicet.gov.ar).

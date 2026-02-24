@@ -4,6 +4,7 @@ Category: Phylosophy
 Lang: en
 Slug: philosophy_2
 Author: Facundo Roffet
+Summary: Personal notes on medieval and Renaissance philosophy: scholastics such as Augustine, Thomas Aquinas, and Ockham, and Renaissance thinkers including Machiavelli and Montaigne. Based on A.C. Grayling and the Philosophize This! podcast.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

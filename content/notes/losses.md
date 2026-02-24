@@ -4,6 +4,7 @@ Category: Deep Learning
 Lang: es
 Slug: losses
 Author: Facundo Roffet
+Summary: Taxonomía estructurada de funciones de coste (loss functions) en deep learning, organizada por tipo de tarea y mecanismo objetivo. Cubre tareas discriminativas y generativas con énfasis en computer vision y machine learning moderno.
 
 <!-- Hide default title -->
 <style> h1.entry-title, h1.post-title, h1.title, h1:first-of-type {display: none;} </style>

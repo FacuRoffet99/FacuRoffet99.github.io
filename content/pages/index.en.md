@@ -1,7 +1,6 @@
 Title: Home
 Lang: en
 Slug: index
-Status: hidden
 
 <h1 style="text-align: center; font-size: 3em; color: rgba(12, 205, 76, 0.927);">Facundo Roffet</h1>
 
@@ -128,3 +127,6 @@ A Python library with tools and templates to streamline deep learning model trai
 * LinkedIn: [facu-roffet](https://www.linkedin.com/in/facu-roffet/)
 * GitHub: [FacuRoffet99](https://github.com/FacuRoffet99)
 * Google Scholar: [Facundo Roffet](https://scholar.google.com/citations?user=miBMD38AAAAJ&hl)
+* ORCID: [0000-0002-7788-4612](https://orcid.org/0000-0002-7788-4612)
+
+Affiliated with the [Image Science Laboratory](https://imaglabs.org/) at the [National University of the South](https://www.uns.edu.ar) and [CONICET](https://www.conicet.gov.ar).
