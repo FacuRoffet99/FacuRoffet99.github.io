@@ -19,8 +19,9 @@ ordered-set==4.1.0
 packaging==25.0
 parso==0.8.4
 pelican==4.11.0
-pelican-render-math==1.0.5
 pelican-i18n-subsites==1.0.0
+pelican-render-math==1.0.5
+pelican-sitemap==1.2.2
 pickleshare==0.7.5
 pip==25.1
 platformdirs==4.3.7

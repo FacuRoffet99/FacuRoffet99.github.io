@@ -14,7 +14,7 @@ sys.path.append(os.curdir)
 AUTHOR = 'Facundo Roffet'
 SITENAME = 'Facundo Roffet'
 SITETITLE = 'Facundo Roffet'
-SITESUBTITLE = 'Investigador en Deep Learning<br>UNS–CONICET'
+SITESUBTITLE = 'Proyectos de Deep Learning<br>UNS–CONICET'
 SITEDESCRIPTION = 'Portfolio de Facundo Roffet, Ingeniero Electrónico e investigador doctoral (CONICET). Especialista en Inteligencia Artificial, Deep Learning y Computer Vision.'
 SITELOGO = 'https://FacuRoffet99.github.io/images/profile.png'
 FAVICON = '/favicon.ico'
@@ -96,7 +96,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_SUBSITES = {
     'en': {
         'LOCALE': 'en_US.UTF-8',
-        'SITESUBTITLE': 'Deep Learning Researcher<br>UNS–CONICET',
+        'SITESUBTITLE': 'Deep Learning projects<br>UNS–CONICET',
         'SITEDESCRIPTION': 'Portfolio of Facundo Roffet, Electronic Engineer and doctoral researcher (CONICET). Specialist in Artificial Intelligence, Deep Learning and Computer Vision.',
         'OG_LOCALE': 'en_US',
         'LINKS': (
