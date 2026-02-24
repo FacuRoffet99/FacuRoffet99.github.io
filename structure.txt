@@ -1,0 +1,367 @@
+�   .gitignore
+�   Makefile
+�   pelicanconf.py
+�   publishconf.py
+�   requirements.txt
+�   structure.txt
+�   tasks.py
++---.github
+�   +---workflows
+�           deploy.yml
+�           
++---content
+�   +---images
+�   �       icon.ico
+�   �       profile.png
+�   �       
+�   +---notes
+�   �       game_theory.md
+�   �       game_theory_en.md
+�   �       losses.en.md
+�   �       losses.md
+�   �       philosophy_1.en.md
+�   �       philosophy_1.md
+�   �       philosophy_2.en.md
+�   �       philosophy_2.md
+�   �       philosophy_3.en.md
+�   �       philosophy_3.md
+�   �       w&b.en.md
+�   �       w&b.md
+�   �       weather_and_climate.en.md
+�   �       weather_and_climate.md
+�   �       
+�   +---pages
+�   �       index.en.md
+�   �       index.md
+�   �       
+�   +---static
+�       +---css
+�               custom.css
+�               
++---output
+�   �   authors.html
+�   �   categories.html
+�   �   favicon.ico
+�   �   index.html
+�   �   tags.html
+�   �   
+�   +---author
+�   �       facundo-roffet.html
+�   �       
+�   +---category
+�   �       ciencias-de-la-tierra.html
+�   �       deep-learning.html
+�   �       filosofia.html
+�   �       mlops.html
+�   �       toma-de-decisiones.html
+�   �       
+�   +---en
+�   �   �   authors.html
+�   �   �   categories.html
+�   �   �   index.html
+�   �   �   tags.html
+�   �   �   
+�   �   +---author
+�   �   �       facundo-roffet.html
+�   �   �       
+�   �   +---category
+�   �   �       decision-making.html
+�   �   �       deep-learning.html
+�   �   �       earth-sciences.html
+�   �   �       mlops.html
+�   �   �       phylosophy.html
+�   �   �       
+�   �   +---feeds
+�   �   �       all.atom.xml
+�   �   �       
+�   �   +---notes
+�   �           decision_making_1.html
+�   �           index.html
+�   �           losses.html
+�   �           mlops_1.html
+�   �           philosophy_1.html
+�   �           philosophy_2.html
+�   �           philosophy_3.html
+�   �           weather_and_climate.html
+�   �           
+�   +---feeds
+�   �       all.atom.xml
+�   �       
+�   +---images
+�   �       profile.png
+�   �       
+�   +---notes
+�   �       decision_making_1.html
+�   �       index.html
+�   �       losses.html
+�   �       mlops_1.html
+�   �       philosophy_1.html
+�   �       philosophy_2.html
+�   �       philosophy_3.html
+�   �       weather_and_climate.html
+�   �       
+�   +---static
+�   �   +---css
+�   �           custom.css
+�   �           
+�   +---theme
+�       +---dark-theme
+�       �       dark-theme.js
+�       �       dark-theme.min.js
+�       �       
+�       +---font-awesome
+�       �   +---css
+�       �   �       brands.css
+�       �   �       fontawesome.css
+�       �   �       solid.css
+�       �   �       
+�       �   +---webfonts
+�       �           fa-brands-400.ttf
+�       �           fa-brands-400.woff2
+�       �           fa-regular-400.ttf
+�       �           fa-regular-400.woff2
+�       �           fa-solid-900.ttf
+�       �           fa-solid-900.woff2
+�       �           fa-v4compatibility.ttf
+�       �           fa-v4compatibility.woff2
+�       �           
+�       +---img
+�       �       profile.png
+�       �       profile_license.txt
+�       �       
+�       +---isso
+�       �       isso.min.js
+�       �       
+�       +---pygments
+�       �       abap.css
+�       �       abap.min.css
+�       �       algol.css
+�       �       algol.min.css
+�       �       algol_nu.css
+�       �       algol_nu.min.css
+�       �       arduino.css
+�       �       arduino.min.css
+�       �       autumn.css
+�       �       autumn.min.css
+�       �       borland.css
+�       �       borland.min.css
+�       �       bw.css
+�       �       bw.min.css
+�       �       colorful.css
+�       �       colorful.min.css
+�       �       default.css
+�       �       default.min.css
+�       �       emacs.css
+�       �       emacs.min.css
+�       �       friendly.css
+�       �       friendly.min.css
+�       �       fruity.css
+�       �       fruity.min.css
+�       �       github.css
+�       �       github.min.css
+�       �       igor.css
+�       �       igor.min.css
+�       �       inkpot.css
+�       �       inkpot.min.css
+�       �       lovelace.css
+�       �       lovelace.min.css
+�       �       manni.css
+�       �       manni.min.css
+�       �       monokai.css
+�       �       monokai.min.css
+�       �       murphy.css
+�       �       murphy.min.css
+�       �       native.css
+�       �       native.min.css
+�       �       paraiso-dark.css
+�       �       paraiso-dark.min.css
+�       �       paraiso-light.css
+�       �       paraiso-light.min.css
+�       �       pastie.css
+�       �       pastie.min.css
+�       �       perldoc.css
+�       �       perldoc.min.css
+�       �       rainbow_dash.css
+�       �       rainbow_dash.min.css
+�       �       rrt.css
+�       �       rrt.min.css
+�       �       sas.css
+�       �       sas.min.css
+�       �       solarized-dark.css
+�       �       solarized-dark.min.css
+�       �       solarized-light.css
+�       �       solarized-light.min.css
+�       �       stata-dark.css
+�       �       stata-dark.min.css
+�       �       stata-light.css
+�       �       stata-light.min.css
+�       �       stata.css
+�       �       stata.min.css
+�       �       tango.css
+�       �       tango.min.css
+�       �       trac.css
+�       �       trac.min.css
+�       �       vim.css
+�       �       vim.min.css
+�       �       vs.css
+�       �       vs.min.css
+�       �       xcode.css
+�       �       xcode.min.css
+�       �       
+�       +---stork
+�       �       stork.css
+�       �       stork.js
+�       �       stork.wasm
+�       �       
+�       +---stylesheet
+�       �       dark-theme.less
+�       �       dark-theme.min.css
+�       �       style.less
+�       �       style.min.css
+�       �       variables.less
+�       �       
+�       +---tipuesearch
+�               jquery.min.js
+�               tipuesearch.min.css
+�               tipuesearch.min.js
+�               tipuesearch_set.min.js
+�               
++---templates
+�   �   archives.html
+�   �   article.html
+�   �   base.html
+�   �   
+�   +---partial
+�           sidebar.html
+�           
++---themes
+�   +---Flex
+�       �   LICENSE
+�       �   
+�       +---pygments
+�       �       generate.py
+�       �       README.md
+�       �       requirements.txt
+�       �       
+�       +---static
+�       �   +---dark-theme
+�       �   �       dark-theme.js
+�       �   �       dark-theme.min.js
+�       �   �       
+�       �   +---font-awesome
+�       �   �   +---css
+�       �   �   �       brands.css
+�       �   �   �       fontawesome.css
+�       �   �   �       solid.css
+�       �   �   �       
+�       �   �   +---webfonts
+�       �   �           fa-brands-400.ttf
+�       �   �           fa-brands-400.woff2
+�       �   �           fa-regular-400.ttf
+�       �   �           fa-regular-400.woff2
+�       �   �           fa-solid-900.ttf
+�       �   �           fa-solid-900.woff2
+�       �   �           fa-v4compatibility.ttf
+�       �   �           fa-v4compatibility.woff2
+�       �   �           
+�       �   +---img
+�       �   �       profile.png
+�       �   �       profile_license.txt
+�       �   �       
+�       �   +---isso
+�       �   �       isso.min.js
+�       �   �       
+�       �   +---pygments
+�       �   �       github.css
+�       �   �       github.min.css
+�       �   �       monokai.css
+�       �   �       monokai.min.css
+�       �   �       
+�       �   +---stork
+�       �   �       stork.css
+�       �   �       stork.js
+�       �   �       stork.wasm
+�       �   �       
+�       �   +---stylesheet
+�       �   �       dark-theme.less
+�       �   �       dark-theme.min.css
+�       �   �       style.less
+�       �   �       style.min.css
+�       �   �       variables.less
+�       �   �       
+�       �   +---tipuesearch
+�       �           jquery.min.js
+�       �           tipuesearch.min.css
+�       �           tipuesearch.min.js
+�       �           tipuesearch_set.min.js
+�       �           
+�       +---templates
+�       �   �   archives.html
+�       �   �   article.html
+�       �   �   author.html
+�       �   �   authors.html
+�       �   �   base.html
+�       �   �   categories.html
+�       �   �   category.html
+�       �   �   index.html
+�       �   �   page.html
+�       �   �   period_archives.html
+�       �   �   search.html
+�       �   �   tag.html
+�       �   �   tags.html
+�       �   �   
+�       �   +---partial
+�       �           addthis.html
+�       �           cc_license.html
+�       �           cf_analytics.html
+�       �           clarity.html
+�       �           color.html
+�       �           copyright.html
+�       �           disqus.html
+�       �           feed.html
+�       �           flex.html
+�       �           footer.html
+�       �           ga.html
+�       �           ggst.html
+�       �           github.html
+�       �           gtm.html
+�       �           gtm_noscript.html
+�       �           guages.html
+�       �           icon.html
+�       �           isso.html
+�       �           jsonld.html
+�       �           jsonld_article.html
+�       �           matomo.html
+�       �           nav.html
+�       �           neighbors.html
+�       �           og.html
+�       �           og_article.html
+�       �           pagination.html
+�       �           plausible.html
+�       �           sidebar.html
+�       �           statuscake.html
+�       �           stork.html
+�       �           translations.html
+�       �           
+�       +---translations
+�           �   babel.cfg
+�           �   messages.pot
+�           �   
+�           +---en
+�           �   +---LC_MESSAGES
+�           �           messages.mo
+�           �           messages.po
+�           �           
+�           +---es
+�           �   +---LC_MESSAGES
+�           �           messages.mo
+�           �           messages.po
+�           �           
+�           +---es_ES
+�               +---LC_MESSAGES
+�                       messages.mo
+�                       messages.po
+�                       
++---__pycache__
+        pelicanconf.cpython-313.pyc
+        

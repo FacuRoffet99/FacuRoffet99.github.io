@@ -13,7 +13,7 @@ Status: hidden
 
 Hola, soy Facu, un ingeniero electrónico que se dió cuenta que los circuitos no eran lo suyo. En un momento pandémico de completa serendipia, me crucé con el canal de YouTube [DotCSV](https://www.youtube.com/@DotCSV) y casi instantáneamente descubrí que mi verdadera pasión era la inteligencia artificial (particularmente el deep learning). Así que decidí empezar a aprender por mi propia cuenta sobre el tema (no me canso de recomendar el curso de [FastAI](https://course.fast.ai/)). 
 
-Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el Laboratorio de Ciencias de las Imágenes (LCI), una institución referente nacional en investigación, desarrollo y transferencia de tecnología en el ámbito del procesamiento de imágenes y sensado remoto. Allí conocí a [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (director del LCI), quién rápidamente se convirtió en mi tutor y me presentó ante [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). Entre los tres, delineamos un plan de trabajo para postularme a la Beca Interna Doctoral para Temas Estratégicos del CONICET. Tras obtenerla en 2023, me especializo en la utilización de deep learning y datos de resonancias magnéticas cerebrales para mejorar el diagnóstico temprano y el entendimiento de enfermedades neurodegenerativas.
+Por suerte para mi carrera, en la Universidad Nacional del Sur (UNS) existe el Laboratorio de Ciencias de las Imágenes (LCI), una institución referente nacional en investigación, desarrollo y transferencia de tecnología en el ámbito del procesamiento de imágenes y sensado remoto. Allí conocí a [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (director del LCI), quién rápidamente se convirtió en mi tutor y me presentó ante [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). Entre los tres, delineamos un plan de trabajo para postularme a la Beca Interna Doctoral para Temas Estratégicos del CONICET. Tras obtenerla en 2023, me especializo en la utilización de deep learning y datos de resonancias magnéticas para entender mejor al cerebro humano, particularmente en los casos de accidentes cerebro vasculares.
 
 Más allá de lo que es mi trabajo, otras disciplinas tales como la filosofía, la geografía y la psicología me despiertan un gran interés. Soy un gran defensor del aprendizaje como un fin en sí mismo y no solo como un mero medio, así que dedico parte de mi tiempo libre a ver cursos online y tomar notas de ellos. Mis notas están más que nada diseñadas para ser entendidas por mi mismo, pero las dejo disponibles en la sección [Notas de cursos](/notes/) por si les llegan a servir a alguien.
 
@@ -81,13 +81,24 @@ Librería de Python que contiene herramientas y plantillas para hacer más facil
 
 ## 🎓 Formación académica 
 
-**Doctorado en Ingeniería: (Abril 2023 - Presente)** 
+**Doctorado en Ingeniería (Abril 2023 - Presente):** 
 
 *   Universidad Nacional del Sur, Bahía Blanca, Argentina.
 
 **Ingeniería Electrónica (Marzo 2017 - Diciembre 2022):** 
 
 *   Universidad Nacional del Sur, Bahía Blanca, Argentina.
+
+<br>
+
+<!---------------------------------------------------------------------------->
+
+## 📜 Formación complementaria
+
+**Escuela Internacional de Verano en Inteligencia Artificial (2026)**
+
+*   Universidad Nacional de Hurlingham, Villa Tesei, Argentina.
+*   Universidad Nacional de San Martín, Villa Chacabuco, Argentina.
 
 <br>
 

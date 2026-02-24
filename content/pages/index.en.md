@@ -13,7 +13,7 @@ Status: hidden
 
 Hi, I'm Facu, an electronic engineer who realized that circuits weren't his thing. In a moment of complete serendipity during the pandemic, I came across the YouTube channel [DotCSV](https://www.youtube.com/@DotCSV) and almost instantly discovered that my true passion was artificial intelligence (particularly deep learning). So I decided to start learning about it on my own (I can’t recommend the [FastAI course](https://course.fast.ai/) enough).
 
-Fortunately for my career, the National University of the South (Universidad Nacional del Sur - UNS) has the Image Science Laboratory (Laboratorio de Ciencias de las Imágenes - LCI), a nationally renowned institution for research, development, and technology transfer in image processing and remote sensing. There I met [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (LCI director), who quickly became my mentor and introduced me to [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). The three of us outlined a work plan for me to apply to the CONICET Internal Doctoral Scholarship for Strategic Topics. After obtaining it in 2023, I have specialized in using deep learning and brain fMRI data to improve early diagnosis and understanding of neurodegenerative diseases.
+Fortunately for my career, the National University of the South (Universidad Nacional del Sur - UNS) has the Image Science Laboratory (Laboratorio de Ciencias de las Imágenes - LCI), a nationally renowned institution for research, development, and technology transfer in image processing and remote sensing. There I met [Claudio Delrieux](https://scholar.google.com/citations?user=AdhE2GoAAAAJ&hl=es&oi=ao) (LCI director), who quickly became my mentor and introduced me to [Gustavo Patow](https://scholar.google.com/citations?user=w2kGazcAAAAJ&hl=es&oi=ao). The three of us outlined a work plan for me to apply to the CONICET Internal Doctoral Scholarship for Strategic Topics. After obtaining it in 2023, I have specialized in using deep learning and fMRI data to better understand the human brain, particularly in stroke cases.
 
 Beyond my work, I have random interests in other disciplines such as philosophy, geography, and psychology. I’m a strong advocate of learning for its own sake, not just as a means to an end, so I spend part of my free time watching online courses and taking notes. My notes are primarily designed for my own understanding, but I make them available in the [Course Notes](/en/notes/) section in case they’re helpful to anyone else.
 
@@ -81,13 +81,24 @@ A Python library with tools and templates to streamline deep learning model trai
 
 ## 🎓 Education
 
-**PhD in Engineering (April 2023 – Present)**
+**PhD in Engineering (April 2023 – Present):**
 
 * National University of the South, Bahía Blanca, Argentina
 
-**Electronic Engineering (March 2017 – December 2022)**
+**Electronic Engineering (March 2017 – December 2022):**
 
 * National University of the South, Bahía Blanca, Argentina
+
+<br>
+
+<!---------------------------------------------------------------------------->
+
+## 📜 Additional training
+
+**International Summer School on Artificial Intelligence (2026)**
+
+*   National University of Hurlingham, Villa Tesei, Argentina.
+*   National University of San Martín, Villa Chacabuco, Argentina.
 
 <br>
 

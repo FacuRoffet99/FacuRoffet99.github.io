@@ -8,8 +8,8 @@ sys.path.append(os.curdir)
 
 AUTHOR = 'Facundo Roffet'
 SITENAME = 'Facundo Roffet'
-SITEURL = "http://127.0.0.1:8000"
-# SITEURL = "https://FacuRoffet99.github.io"
+# SITEURL = "http://127.0.0.1:8000"
+SITEURL = "https://FacuRoffet99.github.io"
 RELATIVE_URLS = False
 
 PATH = "content"
@@ -18,9 +18,8 @@ TIMEZONE = 'America/Argentina/Buenos_Aires'
 
 DEFAULT_LANG = 'es'
 
-# Feed generation is usually not desired when developing
+# Feed generation
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -71,8 +70,8 @@ LOCALE = [
     '' # Como fallback
 ]
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['i18n_subsites', 'render_math']
+# PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['pelican.plugins.i18n_subsites', 'pelican.plugins.render_math']
 I18N_SUBSITES = {
     'en': {
         'LOCALE': 'en_US.UTF-8',
