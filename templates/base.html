@@ -8,7 +8,6 @@
 <html lang="{{ article.lang if article else (page.lang if page else DEFAULT_LANG) }}">
 <head>
   <meta name="google-site-verification" content="INdw2E2wJywpFBxXQIqnaI5VeI87ExbcJal7eUR0Vro" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.css" integrity="sha512-UiL1A9T3U7GVOLKkzMBOFV3IKcKKSQ1OhSNEt7lZL9SFLKTrM2MT3OUQoSKHBJ/cBO8M9V3q0//L2LOmVFF39A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True" />
@@ -120,24 +119,28 @@
   {% if not PLUGINS or 'seo' not in PLUGINS %}
     {% if REL_CANONICAL %}
       {% if page %}
-        <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+        <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}" />
       {% elif article %}
-        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
-      {% elif page_name == 'index' and not articles_previous_page %}
-        <link rel="canonical" href="{{ SITEURL }}">
-      {% elif author or category or tag or page_name == 'index' %}
-        <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url }}">
+        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}" />
       {% else %}
-        <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+        <link rel="canonical" href="{{ SITEURL }}/" />
       {% endif %}
     {% endif %}
-    {% if article %}
-      <link rel="alternate" hreflang="es" href="https://FacuRoffet99.github.io/notes/{{ article.slug }}.html"/>
-      <link rel="alternate" hreflang="en" href="https://FacuRoffet99.github.io/en/notes/{{ article.slug }}.html"/>
-    {% elif page %}
-      <link rel="alternate" hreflang="es" href="https://FacuRoffet99.github.io/"/>
-      <link rel="alternate" hreflang="en" href="https://FacuRoffet99.github.io/en/"/>
-    {% endif %}    
+    {% if article and article.translations %}
+      <link rel="alternate" hreflang="{{ article.lang }}" href="{{ SITEURL }}/{{ article.url }}" />
+      {% for a in article.translations %}
+        <link rel="alternate" hreflang="{{ a.lang }}" href="{{ SITEURL }}/{{ a.url }}" />
+      {% endfor %}
+      <link rel="alternate" hreflang="x-default" href="{{ SITEURL }}/{{ article.url }}" />
+    {% elif page and page.translations %}
+      <link rel="alternate" hreflang="{{ page.lang }}" href="{{ SITEURL }}/{{ page.url }}" />
+      {% for p in page.translations %}
+        <link rel="alternate" hreflang="{{ p.lang }}" href="{{ SITEURL }}/{{ p.url }}" />
+      {% endfor %}
+      <link rel="alternate" hreflang="x-default" href="{{ SITEURL }}/{{ page.url }}" />
+    {% else %}
+      <link rel="alternate" hreflang="x-default" href="{{ SITEURL }}/" />
+    {% endif %}
   {% endif %} 
 
   {% block meta %}
@@ -161,15 +164,15 @@
   {% include "partial/gtm.html" %}
   {% include "partial/clarity.html" %}
 
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-      }
-    };
-  </script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% if article %}
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+  };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
 </head>
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"{% endif %}>
   {% include "partial/gtm_noscript.html" %}
@@ -204,6 +207,5 @@
   {% include 'partial/cf_analytics.html' %}
 
   {% block additional_js %}{% endblock %}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.1/lity.min.js" integrity="sha512-K5D2ocPUDhzI4PsTReWQKb3rSvfAXZKOVqQAUPSLITYvJ4H8M3eHBRQvS0V9J2V6Y3O3q45CmKPEjq5C6m/TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 Title: Medieval and renaissance philosophy
 Date: 2025-06-19 15:08
-Category: Phylosophy
+Category: Philosophy
 Lang: en
 Slug: philosophy_3
 Author: Facundo Roffet

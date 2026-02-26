@@ -1,6 +1,6 @@
 Title: Ancient philosophy
 Date: 2025-05-21 11:35
-Category: Phylosophy
+Category: Philosophy
 Lang: en
 Slug: philosophy_1
 Author: Facundo Roffet

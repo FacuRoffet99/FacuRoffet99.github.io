@@ -16,7 +16,8 @@ SITENAME = 'Facundo Roffet'
 SITETITLE = 'Facundo Roffet'
 SITESUBTITLE = 'Proyectos de Deep Learning<br>UNS–CONICET'
 SITEDESCRIPTION = 'Portfolio de Facundo Roffet, Ingeniero Electrónico e investigador doctoral (CONICET). Especialista en Inteligencia Artificial, Deep Learning y Computer Vision.'
-SITELOGO = 'https://FacuRoffet99.github.io/images/profile.png'
+SITELOGO = 'https://facuroffet99.github.io/images/profile.png'
+SITELOGO = 'https://facuroffet99.github.io/images/profile.png'
 FAVICON = '/favicon.ico'
 
 
@@ -25,7 +26,7 @@ FAVICON = '/favicon.ico'
 # =============================================================================
 
 # SITEURL = "http://127.0.0.1:8000"
-SITEURL = "https://FacuRoffet99.github.io"
+SITEURL = "https://facuroffet99.github.io"
 RELATIVE_URLS = False
 
 PATH = "content"
@@ -120,6 +121,7 @@ SITEMAP = {
     'format': 'xml',
     'priorities': {'articles': 0.8, 'pages': 1.0, 'indexes': 0.5},
     'changefreqs': {'articles': 'monthly', 'pages': 'monthly', 'indexes': 'weekly'},
+    'exclude': ['author', 'authors', 'category', 'categories', 'tags'],
 }
 
 MATH_JAX = {
